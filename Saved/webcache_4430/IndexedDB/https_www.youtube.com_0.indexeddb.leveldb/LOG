@@ -1,0 +1,15 @@
+2022/12/22-17:38:53.228 2be0 Reusing MANIFEST C:/Users/pawel/Documents/Unreal Projects/RTS/Saved/webcache_4430\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/12/22-17:38:53.229 2be0 Recovering log #10
+2022/12/22-17:38:53.230 2be0 Reusing old log C:/Users/pawel/Documents/Unreal Projects/RTS/Saved/webcache_4430\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/000010.log 
+2022/12/22-18:19:33.958 1f14 Level-0 table #15: started
+2022/12/22-18:19:34.065 1f14 Level-0 table #15: 6728 bytes OK
+2022/12/22-18:19:34.068 1f14 Delete type=0 #10
+2022/12/22-18:19:34.068 1f14 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2022/12/22-18:19:34.069 1f14 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x04\x01\x1f\x04\x03\x01\x03\x00N\x00E\x00W\x03\x00\x00\x00\x00\x00\x00L@\x03\x00PV\x8e\xadSxB\x00\x03\x00\x00\x00\x00\x00\x00\x00@' @ 417 : 1
+2022/12/22-18:19:34.069 1f14 Compacting 1@1 + 1@2 files
+2022/12/22-18:19:34.084 1f14 Generated table #16@1: 64 keys, 3210 bytes
+2022/12/22-18:19:34.084 1f14 Compacted 1@1 + 1@2 files => 3210 bytes
+2022/12/22-18:19:34.085 1f14 compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/12/22-18:19:34.085 1f14 Delete type=2 #12
+2022/12/22-18:19:34.085 1f14 Delete type=2 #15
+2022/12/22-18:19:34.086 1f14 Manual compaction at level-1 from '\x00\x04\x01\x1f\x04\x03\x01\x03\x00N\x00E\x00W\x03\x00\x00\x00\x00\x00\x00L@\x03\x00PV\x8e\xadSxB\x00\x03\x00\x00\x00\x00\x00\x00\x00@' @ 417 : 1 .. (end); will stop at (end)

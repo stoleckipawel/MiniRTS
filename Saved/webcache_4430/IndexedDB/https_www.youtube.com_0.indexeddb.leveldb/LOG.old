@@ -1,0 +1,27 @@
+2022/12/22-17:35:11.560 3f54 Reusing MANIFEST C:/Users/pawel/Documents/Unreal Projects/RTS/Saved/webcache_4430\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/12/22-17:35:11.561 3f54 Recovering log #4
+2022/12/22-17:35:11.562 3f54 Reusing old log C:/Users/pawel/Documents/Unreal Projects/RTS/Saved/webcache_4430\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/000004.log 
+2022/12/22-17:35:13.008 1c88 Level-0 table #8: started
+2022/12/22-17:35:13.023 1c88 Level-0 table #8: 764 bytes OK
+2022/12/22-17:35:13.026 1c88 Delete type=0 #4
+2022/12/22-17:35:13.028 eac Manual compaction at level-0 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)
+2022/12/22-17:35:13.028 eac Manual compaction at level-1 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at '\x00\x02\x01\x1f\x04\x03\x01\x03\x00N\x00E\x00W\x03\x00\x00\x00\x00\x00\x00L@\x03\x00\xf0\xd3Y\xaaSxB\x00\x03\x00\x00\x00\x00\x00\x00\x00@' @ 202 : 0
+2022/12/22-17:35:13.029 eac Compacting 1@1 + 1@2 files
+2022/12/22-17:35:13.047 eac Generated table #9@1: 21 keys, 736 bytes
+2022/12/22-17:35:13.047 eac Compacted 1@1 + 1@2 files => 736 bytes
+2022/12/22-17:35:13.049 eac compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/12/22-17:35:13.050 eac Delete type=2 #8
+2022/12/22-17:35:13.050 eac Manual compaction at level-1 from '\x00\x02\x01\x1f\x04\x03\x01\x03\x00N\x00E\x00W\x03\x00\x00\x00\x00\x00\x00L@\x03\x00\xf0\xd3Y\xaaSxB\x00\x03\x00\x00\x00\x00\x00\x00\x00@' @ 202 : 0 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)
+2022/12/22-17:36:37.685 2c90 Level-0 table #11: started
+2022/12/22-17:36:37.702 2c90 Level-0 table #11: 6662 bytes OK
+2022/12/22-17:36:37.704 2c90 Delete type=2 #5
+2022/12/22-17:36:37.704 2c90 Delete type=0 #7
+2022/12/22-17:36:37.705 2c90 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2022/12/22-17:36:37.705 2c90 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x03\x01\x1f\x04\x03\x01\x03\x00N\x00E\x00W\x03\x00\x00\x00\x00\x00\x00L@\x03\x00\xd0]\x19\xabSxB\x00\x03\x00\x00\x00\x00\x00\x00\x00@' @ 301 : 1
+2022/12/22-17:36:37.705 2c90 Compacting 1@1 + 1@2 files
+2022/12/22-17:36:37.734 2c90 Generated table #12@1: 40 keys, 2392 bytes
+2022/12/22-17:36:37.735 2c90 Compacted 1@1 + 1@2 files => 2392 bytes
+2022/12/22-17:36:37.736 2c90 compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/12/22-17:36:37.737 2c90 Delete type=2 #9
+2022/12/22-17:36:37.737 2c90 Delete type=2 #11
+2022/12/22-17:36:37.738 2c90 Manual compaction at level-1 from '\x00\x03\x01\x1f\x04\x03\x01\x03\x00N\x00E\x00W\x03\x00\x00\x00\x00\x00\x00L@\x03\x00\xd0]\x19\xabSxB\x00\x03\x00\x00\x00\x00\x00\x00\x00@' @ 301 : 1 .. (end); will stop at (end)
