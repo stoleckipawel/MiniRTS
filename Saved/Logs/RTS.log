@@ -12223,3 +12223,581 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2022.12.22-19.27.47:322][303]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
 [2022.12.22-19.28.29:422][427]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
 [2022.12.22-19.29.36:311][624]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2022.12.22-19.31.12:312][903]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2022.12.22-19.31.59:341][ 41]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2022.12.22-19.32.27:001][122]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2022.12.22-19.32.52:951][198]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2022.12.22-19.34.31:561][489]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2022.12.22-19.34.55:011][557]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2022.12.22-19.36.08:051][771]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2022.12.22-19.37.20:880][984]LogUObjectHash: Compacting FUObjectHashTables data took   4.68ms
+[2022.12.22-19.37.20:886][984]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Game/Maps/RockyLevel' took 0.144
+[2022.12.22-19.37.20:888][984]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Game/BP/Core/Player/PC_RTS] ([2] browsable assets)...
+[2022.12.22-19.37.20:888][984]OBJ SavePackage: Finished generating thumbnails for package [/Game/Game/BP/Core/Player/PC_RTS]
+[2022.12.22-19.37.20:933][984]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Game/BP/Core/Player/PC_RTS_Auto8
+[2022.12.22-19.37.20:933][984]LogSavePackage: Moving '../../../../../../Users/pawel/Documents/Unreal Projects/RTS/Saved/PC_RTS_Auto8C9FFF08746248E640298C4AAF70E0EBF.tmp' to '../../../../../../Users/pawel/Documents/Unreal Projects/RTS/Saved/Autosaves/Game/Game/BP/Core/Player/PC_RTS_Auto8.uasset'
+[2022.12.22-19.37.20:935][984]LogFileHelpers: Auto-saving content packages took 0.049
+[2022.12.22-19.39.18:601][325]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2022.12.22-19.39.19:458][328]LogDerivedDataCache: C:/Users/pawel/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:22.427 and deleted 0 files with total size 0 MiB. Scanned 11901 files in 11246 folders with total size 273 MiB.
+[2022.12.22-19.39.43:249][397]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2022.12.22-19.40.30:770][537]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2022.12.22-19.41.51:539][775]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2022.12.22-19.42.27:339][879]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2022.12.22-19.45.43:559][452]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2022.12.22-19.47.59:019][849]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2022.12.22-19.49.16:629][ 74]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2022.12.22-19.49.52:528][179]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2022.12.22-19.50.14:578][243]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2022.12.22-19.50.32:098][294]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2022.12.22-19.51.11:739][410]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2022.12.22-19.51.39:869][492]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2022.12.22-19.52.40:939][672]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2022.12.22-19.58.36:158][712]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2022.12.22-19.59.16:867][832]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2022.12.22-19.59.53:898][940]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2022.12.22-20.00.16:978][  7]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2022.12.22-20.00.51:908][108]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2022.12.22-20.01.02:458][139]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2022.12.22-20.01.32:978][227]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2022.12.22-20.02.14:067][347]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2022.12.22-20.02.45:208][439]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2022.12.22-20.03.09:748][511]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2022.12.22-20.04.15:837][703]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2022.12.22-20.04.59:418][830]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2022.12.22-20.06.13:537][ 46]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2022.12.22-20.06.47:508][146]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2022.12.22-20.07.10:978][215]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2022.12.22-20.09.00:427][537]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2022.12.22-20.10.30:398][799]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2022.12.22-20.10.48:088][ 12]BlueprintLog: New page: Compile PC_RTS
+[2022.12.22-20.10.48:266][ 12]LogUObjectHash: Compacting FUObjectHashTables data took   3.27ms
+[2022.12.22-20.10.55:548][180]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.12.22-20.10.55:573][180]LogContentBundle: [Container: RockyLevel] Generating Streaming for 0 Content Bundles.
+[2022.12.22-20.10.55:578][180]LogWorldPartition: Display: GenerateStreaming started...
+[2022.12.22-20.10.55:578][180]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.12.22-20.10.55:578][180]LogWorldPartition: Display: GetPartitionedActors took 59 us (total: 1 ms)
+[2022.12.22-20.10.55:597][180]LogWorldPartition: Display: GenerateStreaming took 18 ms (total: 176 ms)
+[2022.12.22-20.10.55:598][180]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.22-20.10.55:599][180]PIE: New page: PIE session: RockyLevel (Dec 22, 2022, 10:10:55 PM)
+[2022.12.22-20.10.55:600][180]LogPlayLevel: Creating play world package: /Game/Game/Maps/UEDPIE_0_RockyLevel
+[2022.12.22-20.10.55:611][180]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010834s)
+[2022.12.22-20.10.55:611][180]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Game/Maps/RockyLevel.RockyLevel to /Game/Game/Maps/UEDPIE_0_RockyLevel.RockyLevel (0.010988s)
+[2022.12.22-20.10.55:612][180]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.22-20.10.55:614][180]LogAIModule: Creating AISystem for world RockyLevel
+[2022.12.22-20.10.55:615][180]LogWorldPartition: ULevel::OnLevelLoaded(RockyLevel)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2022.12.22-20.10.55:616][180]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.12.22-20.10.55:616][180]LogWorldPartition: UWorldPartition::Initialize(Asset=RockyLevel, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2022.12.22-20.10.55:617][180]LogContentBundle: [Container: RockyLevel] Creating new contrainer.
+[2022.12.22-20.10.55:617][180]LogWorldPartition: Display: WorldPartition initialize took 2 ms (total: 1.88 sec)
+[2022.12.22-20.10.55:618][180]LogPlayLevel: PIE: World Init took: (0.006575s)
+[2022.12.22-20.10.55:701][180]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2022.12.22-20.10.55:705][180]LogAudio: Display: Creating Audio Device:                 Id: 36, Scope: Unique, Realtime: True
+[2022.12.22-20.10.55:705][180]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.22-20.10.55:706][180]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.22-20.10.55:706][180]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.22-20.10.55:706][180]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.22-20.10.55:706][180]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2022.12.22-20.10.55:706][180]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.12.22-20.10.55:706][180]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2022.12.22-20.10.55:706][180]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.22-20.10.55:708][180]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.22-20.10.55:708][180]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.22-20.10.55:708][180]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.22-20.10.55:713][180]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.12.22-20.10.55:770][180]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek High Definition Audio)
+[2022.12.22-20.10.55:775][180]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.22-20.10.55:776][180]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.22-20.10.55:776][180]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.22-20.10.55:781][180]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=36
+[2022.12.22-20.10.55:781][180]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=36
+[2022.12.22-20.10.55:785][180]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=36
+[2022.12.22-20.10.55:785][180]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=36
+[2022.12.22-20.10.55:785][180]LogInit: FAudioDevice initialized.
+[2022.12.22-20.10.55:785][180]LogAudio: Display: Audio Device (ID: 36) registered with world 'RockyLevel'.
+[2022.12.22-20.10.55:906][180]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.22-20.10.55:907][180]LogLoad: Game class is 'GM_RTS_C'
+[2022.12.22-20.10.55:910][180]LogWorld: Bringing World /Game/Game/Maps/UEDPIE_0_RockyLevel.RockyLevel up for play (max tick rate 60) at 2022.12.22-21.10.55
+[2022.12.22-20.10.55:911][180]LogWorld: Bringing up level for play took: 0.002551
+[2022.12.22-20.10.55:918][180]LogOnline: OSS: Created online subsystem instance for: :Context_42
+[2022.12.22-20.10.55:926][180]LogWorldPartition: New Streaming Source: PC_RTS_C_0 -> Position: X=206.244 Y=-8060.775 Z=299.050
+[2022.12.22-20.10.55:926][180]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(16), CellsToLoad(0), CellsToUnload(0)
+[2022.12.22-20.10.55:926][180]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=206.244 Y=-8060.775 Z=299.050,P=0.000000 Y=0.000000 R=-0.000000
+[2022.12.22-20.10.55:934][180]LogStreaming: Display: FlushAsyncLoading(-1): 31 QueuedPackages, 0 AsyncPackages
+[2022.12.22-20.10.56:545][180]LogTexture: Display: Waiting for textures to be ready 0/164 (/Memory/UEDPIE_0_MainGrid_L0_X-2_Y1_DL0_InstanceOf_/Game/__ExternalActors__/Game/Maps/RockyLevel/0/P5/A4FY0CY6QUSHTN1VZSUNBM) ...
+[2022.12.22-20.10.56:587][180]LogTexture: Display: Waiting for textures to be ready 2/164 (/Memory/UEDPIE_0_MainGrid_L0_X-2_Y1_DL0_InstanceOf_/Game/__ExternalActors__/Game/Maps/RockyLevel/0/P5/A4FY0CY6QUSHTN1VZSUNBM) ...
+[2022.12.22-20.10.56:687][180]LogTexture: Display: Waiting for textures to be ready 25/164 (/Memory/UEDPIE_0_MainGrid_L0_X1_Y1_DL0_InstanceOf_/Game/__ExternalActors__/Game/Maps/RockyLevel/1/CF/FYWWBX80PEPF6A3Y1A3XPE) ...
+[2022.12.22-20.10.56:740][180]LogTexture: Display: Waiting for textures to be ready 35/164 (/Memory/UEDPIE_0_MainGrid_L0_X0_Y1_DL0_InstanceOf_/Game/__ExternalActors__/Game/Maps/RockyLevel/3/LL/BHU4Z069Q9MXHOLDBL35RC) ...
+[2022.12.22-20.10.56:809][180]LogTexture: Display: Waiting for textures to be ready 52/164 (/Memory/UEDPIE_0_MainGrid_L0_X-2_Y-1_DL0_InstanceOf_/Game/__ExternalActors__/Game/Maps/RockyLevel/9/9F/C70OP1PZ2S8OOESHH74TRD) ...
+[2022.12.22-20.10.57:147][180]PIE: Server logged in
+[2022.12.22-20.10.57:151][180]PIE: Play in editor total start time 1.578 seconds.
+[2022.12.22-20.10.57:154][180]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2022.12.22-20.10.57:154][180]LogScript: Warning: Last function called:
+	/Game/Game/BP/Core/Player/PC_RTS.PC_RTS_C.ExecuteUbergraph_PC_RTS
+
+[2022.12.22-20.10.57:154][180]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2022.12.22-20.10.57:154][180]LogScript: Warning: Last function called:
+	/Game/Game/BP/Core/Player/PC_RTS.PC_RTS_C.ExecuteUbergraph_PC_RTS
+
+[2022.12.22-20.10.58:923][180]LogViewport: Scene viewport resized to 1309x860, mode Windowed.
+[2022.12.22-20.11.04:518][318]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.22-20.11.04:518][318]LogWorld: BeginTearingDown for /Game/Game/Maps/UEDPIE_0_RockyLevel
+[2022.12.22-20.11.04:519][318]LogSlate: Window 'RTS Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2022.12.22-20.11.04:580][318]LogWorld: UWorld::CleanupWorld for RockyLevel, bSessionEnded=true, bCleanupResources=true
+[2022.12.22-20.11.04:580][318]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.22-20.11.04:580][318]LogContentBundle: [Container: RockyLevel] Deleting container.
+[2022.12.22-20.11.04:589][318]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.22-20.11.04:600][318]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.22-20.11.04:708][318]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.22-20.11.04:709][318]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=36
+[2022.12.22-20.11.04:715][318]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=36
+[2022.12.22-20.11.04:737][318]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2022.12.22-20.11.04:781][319]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2022.12.22-20.12.24:957][935]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2022.12.22-20.12.39:707][691]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2022.12.22-20.13.01:737][759]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2022.12.22-20.13.13:597][374]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2022.12.22-20.13.32:138][406]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2022.12.22-20.13.56:138][398]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2022.12.22-20.14.50:673][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   4.72ms
+[2022.12.22-20.14.50:679][ 28]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Game/Maps/RockyLevel' took 0.176
+[2022.12.22-20.14.50:680][ 28]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Game/BP/Core/Player/PC_RTS] ([2] browsable assets)...
+[2022.12.22-20.14.50:680][ 28]OBJ SavePackage: Finished generating thumbnails for package [/Game/Game/BP/Core/Player/PC_RTS]
+[2022.12.22-20.14.50:714][ 28]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Game/BP/Core/Player/PC_RTS_Auto9
+[2022.12.22-20.14.50:714][ 28]LogSavePackage: Moving '../../../../../../Users/pawel/Documents/Unreal Projects/RTS/Saved/PC_RTS_Auto940261AC54357F14099DC25920FCD9DC6.tmp' to '../../../../../../Users/pawel/Documents/Unreal Projects/RTS/Saved/Autosaves/Game/Game/BP/Core/Player/PC_RTS_Auto9.uasset'
+[2022.12.22-20.14.50:717][ 28]LogFileHelpers: Auto-saving content packages took 0.037
+[2022.12.22-20.15.14:827][100]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2022.12.22-20.17.56:956][578]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2022.12.22-20.18.12:607][624]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2022.12.22-20.18.59:527][961]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2022.12.22-20.20.04:727][932]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2022.12.22-20.20.30:117][ 85]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2022.12.22-20.20.51:537][192]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2022.12.22-20.21.25:527][800]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2022.12.22-20.21.39:366][531]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2022.12.22-20.21.53:327][191]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2022.12.22-20.22.10:228][968]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2022.12.22-20.22.31:277][960]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2022.12.22-20.22.57:037][159]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2022.12.22-20.23.06:537][603]BlueprintLog: New page: Compile PC_RTS
+[2022.12.22-20.23.06:692][603]LogUObjectHash: Compacting FUObjectHashTables data took   3.37ms
+[2022.12.22-20.23.14:768][ 18]BlueprintLog: New page: Compile PC_RTS
+[2022.12.22-20.23.14:909][ 18]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2022.12.22-20.23.18:143][111]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.12.22-20.23.18:164][111]LogContentBundle: [Container: RockyLevel] Generating Streaming for 0 Content Bundles.
+[2022.12.22-20.23.18:169][111]LogWorldPartition: Display: GenerateStreaming started...
+[2022.12.22-20.23.18:169][111]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.12.22-20.23.18:169][111]LogWorldPartition: Display: GetPartitionedActors took 66 us (total: 1 ms)
+[2022.12.22-20.23.18:174][111]LogWorldPartition: Display: GenerateStreaming took 5 ms (total: 181 ms)
+[2022.12.22-20.23.18:175][111]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.22-20.23.18:175][111]PIE: New page: PIE session: RockyLevel (Dec 22, 2022, 10:23:18 PM)
+[2022.12.22-20.23.18:176][111]LogPlayLevel: Creating play world package: /Game/Game/Maps/UEDPIE_0_RockyLevel
+[2022.12.22-20.23.18:183][111]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007057s)
+[2022.12.22-20.23.18:183][111]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Game/Maps/RockyLevel.RockyLevel to /Game/Game/Maps/UEDPIE_0_RockyLevel.RockyLevel (0.007145s)
+[2022.12.22-20.23.18:183][111]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.22-20.23.18:184][111]LogAIModule: Creating AISystem for world RockyLevel
+[2022.12.22-20.23.18:185][111]LogWorldPartition: ULevel::OnLevelLoaded(RockyLevel)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2022.12.22-20.23.18:185][111]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.12.22-20.23.18:185][111]LogWorldPartition: UWorldPartition::Initialize(Asset=RockyLevel, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2022.12.22-20.23.18:187][111]LogContentBundle: [Container: RockyLevel] Creating new contrainer.
+[2022.12.22-20.23.18:187][111]LogWorldPartition: Display: WorldPartition initialize took 2 ms (total: 1.89 sec)
+[2022.12.22-20.23.18:188][111]LogPlayLevel: PIE: World Init took: (0.004521s)
+[2022.12.22-20.23.18:265][111]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2022.12.22-20.23.18:269][111]LogAudio: Display: Creating Audio Device:                 Id: 37, Scope: Unique, Realtime: True
+[2022.12.22-20.23.18:269][111]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.22-20.23.18:269][111]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.22-20.23.18:269][111]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.22-20.23.18:269][111]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.22-20.23.18:269][111]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2022.12.22-20.23.18:269][111]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.12.22-20.23.18:269][111]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2022.12.22-20.23.18:269][111]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.22-20.23.18:270][111]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.22-20.23.18:270][111]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.22-20.23.18:270][111]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.22-20.23.18:274][111]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.12.22-20.23.18:328][111]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek High Definition Audio)
+[2022.12.22-20.23.18:329][111]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.22-20.23.18:329][111]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.22-20.23.18:329][111]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.22-20.23.18:332][111]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=37
+[2022.12.22-20.23.18:332][111]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=37
+[2022.12.22-20.23.18:335][111]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=37
+[2022.12.22-20.23.18:335][111]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=37
+[2022.12.22-20.23.18:336][111]LogInit: FAudioDevice initialized.
+[2022.12.22-20.23.18:336][111]LogAudio: Display: Audio Device (ID: 37) registered with world 'RockyLevel'.
+[2022.12.22-20.23.18:453][111]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.22-20.23.18:453][111]LogLoad: Game class is 'GM_RTS_C'
+[2022.12.22-20.23.18:454][111]LogWorld: Bringing World /Game/Game/Maps/UEDPIE_0_RockyLevel.RockyLevel up for play (max tick rate 60) at 2022.12.22-21.23.18
+[2022.12.22-20.23.18:455][111]LogWorld: Bringing up level for play took: 0.001601
+[2022.12.22-20.23.18:460][111]LogOnline: OSS: Created online subsystem instance for: :Context_43
+[2022.12.22-20.23.18:463][111]LogWorldPartition: New Streaming Source: PC_RTS_C_0 -> Position: X=206.244 Y=-8060.775 Z=299.050
+[2022.12.22-20.23.18:463][111]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(16), CellsToLoad(0), CellsToUnload(0)
+[2022.12.22-20.23.18:463][111]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=206.244 Y=-8060.775 Z=299.050,P=0.000000 Y=0.000000 R=-0.000000
+[2022.12.22-20.23.18:470][111]LogStreaming: Display: FlushAsyncLoading(-1): 31 QueuedPackages, 0 AsyncPackages
+[2022.12.22-20.23.20:752][111]PIE: Server logged in
+[2022.12.22-20.23.20:756][111]PIE: Play in editor total start time 2.592 seconds.
+[2022.12.22-20.23.20:757][111]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2022.12.22-20.23.20:757][111]LogScript: Warning: Last function called:
+	/Game/Game/BP/Core/Player/PC_RTS.PC_RTS_C.ExecuteUbergraph_PC_RTS
+
+[2022.12.22-20.23.20:757][111]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2022.12.22-20.23.20:757][111]LogScript: Warning: Last function called:
+	/Game/Game/BP/Core/Player/PC_RTS.PC_RTS_C.ExecuteUbergraph_PC_RTS
+
+[2022.12.22-20.23.20:757][111]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2022.12.22-20.23.20:757][111]LogScript: Warning: Last function called:
+	/Game/Game/BP/Core/Player/PC_RTS.PC_RTS_C.ExecuteUbergraph_PC_RTS
+
+[2022.12.22-20.23.20:757][111]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2022.12.22-20.23.20:757][111]LogScript: Warning: Last function called:
+	/Game/Game/BP/Core/Player/PC_RTS.PC_RTS_C.ExecuteUbergraph_PC_RTS
+
+[2022.12.22-20.23.20:764][111]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2022.12.22-20.23.20:764][111]LogScript: Warning: Last function called:
+	/Game/Game/BP/Core/Player/PC_RTS.PC_RTS_C.ExecuteUbergraph_PC_RTS
+
+[2022.12.22-20.23.20:764][111]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2022.12.22-20.23.20:764][111]LogScript: Warning: Last function called:
+	/Game/Game/BP/Core/Player/PC_RTS.PC_RTS_C.ExecuteUbergraph_PC_RTS
+
+[2022.12.22-20.23.22:637][111]LogViewport: Scene viewport resized to 1311x870, mode Windowed.
+[2022.12.22-20.23.27:837][239]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=37
+[2022.12.22-20.23.41:557][568]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=37
+[2022.12.22-20.23.41:879][575]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.22-20.23.41:879][575]LogWorld: BeginTearingDown for /Game/Game/Maps/UEDPIE_0_RockyLevel
+[2022.12.22-20.23.41:881][575]LogSlate: Window 'RTS Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2022.12.22-20.23.41:966][575]LogWorld: UWorld::CleanupWorld for RockyLevel, bSessionEnded=true, bCleanupResources=true
+[2022.12.22-20.23.41:966][575]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.22-20.23.41:966][575]LogContentBundle: [Container: RockyLevel] Deleting container.
+[2022.12.22-20.23.41:974][575]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.22-20.23.41:990][575]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.22-20.23.42:102][575]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.22-20.23.42:102][575]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=37
+[2022.12.22-20.23.42:106][575]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=37
+[2022.12.22-20.23.42:129][575]LogUObjectHash: Compacting FUObjectHashTables data took   4.33ms
+[2022.12.22-20.23.42:214][576]LogPlayLevel: Display: Destroying online subsystem :Context_43
+[2022.12.22-20.23.46:913][826]BlueprintLog: New page: Compile PC_RTS
+[2022.12.22-20.23.47:062][826]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2022.12.22-20.23.48:539][887]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.12.22-20.23.48:562][887]LogContentBundle: [Container: RockyLevel] Generating Streaming for 0 Content Bundles.
+[2022.12.22-20.23.48:565][887]LogWorldPartition: Display: GenerateStreaming started...
+[2022.12.22-20.23.48:565][887]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.12.22-20.23.48:565][887]LogWorldPartition: Display: GetPartitionedActors took 53 us (total: 1 ms)
+[2022.12.22-20.23.48:571][887]LogWorldPartition: Display: GenerateStreaming took 6 ms (total: 187 ms)
+[2022.12.22-20.23.48:573][887]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.22-20.23.48:573][887]PIE: New page: PIE session: RockyLevel (Dec 22, 2022, 10:23:48 PM)
+[2022.12.22-20.23.48:573][887]LogPlayLevel: Creating play world package: /Game/Game/Maps/UEDPIE_0_RockyLevel
+[2022.12.22-20.23.48:579][887]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005610s)
+[2022.12.22-20.23.48:579][887]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Game/Maps/RockyLevel.RockyLevel to /Game/Game/Maps/UEDPIE_0_RockyLevel.RockyLevel (0.005671s)
+[2022.12.22-20.23.48:579][887]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.22-20.23.48:580][887]LogAIModule: Creating AISystem for world RockyLevel
+[2022.12.22-20.23.48:581][887]LogWorldPartition: ULevel::OnLevelLoaded(RockyLevel)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2022.12.22-20.23.48:581][887]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.12.22-20.23.48:581][887]LogWorldPartition: UWorldPartition::Initialize(Asset=RockyLevel, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2022.12.22-20.23.48:586][887]LogContentBundle: [Container: RockyLevel] Creating new contrainer.
+[2022.12.22-20.23.48:586][887]LogWorldPartition: Display: WorldPartition initialize took 4 ms (total: 1.89 sec)
+[2022.12.22-20.23.48:586][887]LogPlayLevel: PIE: World Init took: (0.006741s)
+[2022.12.22-20.23.48:665][887]LogUObjectHash: Compacting FUObjectHashTables data took   3.38ms
+[2022.12.22-20.23.48:669][887]LogAudio: Display: Creating Audio Device:                 Id: 38, Scope: Unique, Realtime: True
+[2022.12.22-20.23.48:669][887]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.22-20.23.48:669][887]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.22-20.23.48:669][887]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.22-20.23.48:669][887]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.22-20.23.48:669][887]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2022.12.22-20.23.48:669][887]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.12.22-20.23.48:669][887]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2022.12.22-20.23.48:669][887]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.22-20.23.48:670][887]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.22-20.23.48:670][887]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.22-20.23.48:671][887]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.22-20.23.48:674][887]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.12.22-20.23.48:736][887]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek High Definition Audio)
+[2022.12.22-20.23.48:738][887]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.22-20.23.48:738][887]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.22-20.23.48:739][887]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.22-20.23.48:740][887]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=38
+[2022.12.22-20.23.48:740][887]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=38
+[2022.12.22-20.23.48:743][887]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=38
+[2022.12.22-20.23.48:744][887]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=38
+[2022.12.22-20.23.48:744][887]LogInit: FAudioDevice initialized.
+[2022.12.22-20.23.48:744][887]LogAudio: Display: Audio Device (ID: 38) registered with world 'RockyLevel'.
+[2022.12.22-20.23.48:857][887]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.22-20.23.48:857][887]LogLoad: Game class is 'GM_RTS_C'
+[2022.12.22-20.23.48:859][887]LogWorld: Bringing World /Game/Game/Maps/UEDPIE_0_RockyLevel.RockyLevel up for play (max tick rate 60) at 2022.12.22-21.23.48
+[2022.12.22-20.23.48:859][887]LogWorld: Bringing up level for play took: 0.001336
+[2022.12.22-20.23.48:864][887]LogOnline: OSS: Created online subsystem instance for: :Context_44
+[2022.12.22-20.23.48:866][887]LogWorldPartition: New Streaming Source: PC_RTS_C_0 -> Position: X=206.244 Y=-8060.775 Z=299.050
+[2022.12.22-20.23.48:866][887]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(16), CellsToLoad(0), CellsToUnload(0)
+[2022.12.22-20.23.48:866][887]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=206.244 Y=-8060.775 Z=299.050,P=0.000000 Y=0.000000 R=-0.000000
+[2022.12.22-20.23.48:871][887]LogStreaming: Display: FlushAsyncLoading(-1): 31 QueuedPackages, 0 AsyncPackages
+[2022.12.22-20.23.49:131][887]LogTexture: Display: Waiting for textures to be ready 54/164 (/Memory/UEDPIE_0_MainGrid_L0_X-2_Y-1_DL0_InstanceOf_/Game/__ExternalActors__/Game/Maps/RockyLevel/9/9F/C70OP1PZ2S8OOESHH74TRD) ...
+[2022.12.22-20.23.49:241][887]PIE: Server logged in
+[2022.12.22-20.23.49:245][887]PIE: Play in editor total start time 0.683 seconds.
+[2022.12.22-20.23.49:247][887]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2022.12.22-20.23.49:247][887]LogScript: Warning: Last function called:
+	/Game/Game/BP/Core/Player/PC_RTS.PC_RTS_C.ExecuteUbergraph_PC_RTS
+
+[2022.12.22-20.23.49:247][887]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2022.12.22-20.23.49:247][887]LogScript: Warning: Last function called:
+	/Game/Game/BP/Core/Player/PC_RTS.PC_RTS_C.ExecuteUbergraph_PC_RTS
+
+[2022.12.22-20.23.49:247][887]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2022.12.22-20.23.49:247][887]LogScript: Warning: Last function called:
+	/Game/Game/BP/Core/Player/PC_RTS.PC_RTS_C.ExecuteUbergraph_PC_RTS
+
+[2022.12.22-20.23.49:247][887]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2022.12.22-20.23.49:247][887]LogScript: Warning: Last function called:
+	/Game/Game/BP/Core/Player/PC_RTS.PC_RTS_C.ExecuteUbergraph_PC_RTS
+
+[2022.12.22-20.23.49:247][887]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2022.12.22-20.23.49:247][887]LogScript: Warning: Last function called:
+	/Game/Game/BP/Core/Player/PC_RTS.PC_RTS_C.ExecuteUbergraph_PC_RTS
+
+[2022.12.22-20.23.49:247][887]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2022.12.22-20.23.49:247][887]LogScript: Warning: Last function called:
+	/Game/Game/BP/Core/Player/PC_RTS.PC_RTS_C.ExecuteUbergraph_PC_RTS
+
+[2022.12.22-20.23.49:284][887]LogViewport: Scene viewport resized to 1313x880, mode Windowed.
+[2022.12.22-20.23.54:297][ 12]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2022.12.22-20.24.02:778][242]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.22-20.24.02:778][242]LogWorld: BeginTearingDown for /Game/Game/Maps/UEDPIE_0_RockyLevel
+[2022.12.22-20.24.02:779][242]LogSlate: Window 'RTS Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2022.12.22-20.24.02:822][242]LogWorld: UWorld::CleanupWorld for RockyLevel, bSessionEnded=true, bCleanupResources=true
+[2022.12.22-20.24.02:823][242]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.22-20.24.02:823][242]LogContentBundle: [Container: RockyLevel] Deleting container.
+[2022.12.22-20.24.02:830][242]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.22-20.24.02:840][242]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.22-20.24.02:933][242]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.22-20.24.02:933][242]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=38
+[2022.12.22-20.24.02:937][242]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=38
+[2022.12.22-20.24.02:959][242]LogUObjectHash: Compacting FUObjectHashTables data took   5.17ms
+[2022.12.22-20.24.03:061][243]LogPlayLevel: Display: Destroying online subsystem :Context_44
+[2022.12.22-20.24.06:893][439]BlueprintLog: New page: Compile PC_RTS
+[2022.12.22-20.24.07:033][439]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2022.12.22-20.24.08:341][491]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.12.22-20.24.08:362][491]LogContentBundle: [Container: RockyLevel] Generating Streaming for 0 Content Bundles.
+[2022.12.22-20.24.08:365][491]LogWorldPartition: Display: GenerateStreaming started...
+[2022.12.22-20.24.08:365][491]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.12.22-20.24.08:365][491]LogWorldPartition: Display: GetPartitionedActors took 57 us (total: 1 ms)
+[2022.12.22-20.24.08:370][491]LogWorldPartition: Display: GenerateStreaming took 5 ms (total: 193 ms)
+[2022.12.22-20.24.08:371][491]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.22-20.24.08:372][491]PIE: New page: PIE session: RockyLevel (Dec 22, 2022, 10:24:08 PM)
+[2022.12.22-20.24.08:372][491]LogPlayLevel: Creating play world package: /Game/Game/Maps/UEDPIE_0_RockyLevel
+[2022.12.22-20.24.08:378][491]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005556s)
+[2022.12.22-20.24.08:378][491]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Game/Maps/RockyLevel.RockyLevel to /Game/Game/Maps/UEDPIE_0_RockyLevel.RockyLevel (0.005611s)
+[2022.12.22-20.24.08:378][491]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.22-20.24.08:379][491]LogAIModule: Creating AISystem for world RockyLevel
+[2022.12.22-20.24.08:379][491]LogWorldPartition: ULevel::OnLevelLoaded(RockyLevel)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2022.12.22-20.24.08:379][491]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.12.22-20.24.08:380][491]LogWorldPartition: UWorldPartition::Initialize(Asset=RockyLevel, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2022.12.22-20.24.08:381][491]LogContentBundle: [Container: RockyLevel] Creating new contrainer.
+[2022.12.22-20.24.08:381][491]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 1.89 sec)
+[2022.12.22-20.24.08:381][491]LogPlayLevel: PIE: World Init took: (0.003567s)
+[2022.12.22-20.24.08:785][491]LogUObjectHash: Compacting FUObjectHashTables data took   4.19ms
+[2022.12.22-20.24.08:790][491]LogAudio: Display: Creating Audio Device:                 Id: 39, Scope: Unique, Realtime: True
+[2022.12.22-20.24.08:790][491]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.22-20.24.08:790][491]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.22-20.24.08:790][491]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.22-20.24.08:790][491]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.22-20.24.08:790][491]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2022.12.22-20.24.08:790][491]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.12.22-20.24.08:790][491]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2022.12.22-20.24.08:790][491]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.22-20.24.08:791][491]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.22-20.24.08:791][491]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.22-20.24.08:791][491]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.22-20.24.08:795][491]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.12.22-20.24.08:859][491]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek High Definition Audio)
+[2022.12.22-20.24.08:860][491]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.22-20.24.08:860][491]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.22-20.24.08:860][491]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.22-20.24.08:861][491]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=39
+[2022.12.22-20.24.08:861][491]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=39
+[2022.12.22-20.24.08:865][491]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=39
+[2022.12.22-20.24.08:866][491]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=39
+[2022.12.22-20.24.08:866][491]LogInit: FAudioDevice initialized.
+[2022.12.22-20.24.08:866][491]LogAudio: Display: Audio Device (ID: 39) registered with world 'RockyLevel'.
+[2022.12.22-20.24.09:000][491]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.22-20.24.09:000][491]LogLoad: Game class is 'GM_RTS_C'
+[2022.12.22-20.24.09:001][491]LogWorld: Bringing World /Game/Game/Maps/UEDPIE_0_RockyLevel.RockyLevel up for play (max tick rate 60) at 2022.12.22-21.24.09
+[2022.12.22-20.24.09:002][491]LogWorld: Bringing up level for play took: 0.001288
+[2022.12.22-20.24.09:007][491]LogOnline: OSS: Created online subsystem instance for: :Context_45
+[2022.12.22-20.24.09:010][491]LogWorldPartition: New Streaming Source: PC_RTS_C_0 -> Position: X=206.244 Y=-8060.775 Z=299.050
+[2022.12.22-20.24.09:011][491]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(16), CellsToLoad(0), CellsToUnload(0)
+[2022.12.22-20.24.09:011][491]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=206.244 Y=-8060.775 Z=299.050,P=0.000000 Y=0.000000 R=-0.000000
+[2022.12.22-20.24.09:018][491]LogStreaming: Display: FlushAsyncLoading(-1): 31 QueuedPackages, 0 AsyncPackages
+[2022.12.22-20.24.09:321][491]PIE: Server logged in
+[2022.12.22-20.24.09:325][491]PIE: Play in editor total start time 0.964 seconds.
+[2022.12.22-20.24.09:327][491]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2022.12.22-20.24.09:327][491]LogScript: Warning: Last function called:
+	/Game/Game/BP/Core/Player/PC_RTS.PC_RTS_C.ExecuteUbergraph_PC_RTS
+
+[2022.12.22-20.24.09:327][491]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2022.12.22-20.24.09:327][491]LogScript: Warning: Last function called:
+	/Game/Game/BP/Core/Player/PC_RTS.PC_RTS_C.ExecuteUbergraph_PC_RTS
+
+[2022.12.22-20.24.09:327][491]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2022.12.22-20.24.09:327][491]LogScript: Warning: Last function called:
+	/Game/Game/BP/Core/Player/PC_RTS.PC_RTS_C.ExecuteUbergraph_PC_RTS
+
+[2022.12.22-20.24.09:327][491]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2022.12.22-20.24.09:327][491]LogScript: Warning: Last function called:
+	/Game/Game/BP/Core/Player/PC_RTS.PC_RTS_C.ExecuteUbergraph_PC_RTS
+
+[2022.12.22-20.24.09:327][491]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2022.12.22-20.24.09:327][491]LogScript: Warning: Last function called:
+	/Game/Game/BP/Core/Player/PC_RTS.PC_RTS_C.ExecuteUbergraph_PC_RTS
+
+[2022.12.22-20.24.09:327][491]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2022.12.22-20.24.09:327][491]LogScript: Warning: Last function called:
+	/Game/Game/BP/Core/Player/PC_RTS.PC_RTS_C.ExecuteUbergraph_PC_RTS
+
+[2022.12.22-20.24.09:372][491]LogViewport: Scene viewport resized to 1314x890, mode Windowed.
+[2022.12.22-20.24.10:587][515]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=39
+[2022.12.22-20.24.25:388][925]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.22-20.24.25:388][925]LogWorld: BeginTearingDown for /Game/Game/Maps/UEDPIE_0_RockyLevel
+[2022.12.22-20.24.25:389][925]LogSlate: Window 'RTS Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2022.12.22-20.24.25:439][925]LogWorld: UWorld::CleanupWorld for RockyLevel, bSessionEnded=true, bCleanupResources=true
+[2022.12.22-20.24.25:440][925]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.22-20.24.25:440][925]LogContentBundle: [Container: RockyLevel] Deleting container.
+[2022.12.22-20.24.25:451][925]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.22-20.24.25:461][925]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.22-20.24.25:555][925]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.22-20.24.25:556][925]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=39
+[2022.12.22-20.24.25:559][925]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=39
+[2022.12.22-20.24.25:579][925]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2022.12.22-20.24.25:671][926]LogPlayLevel: Display: Destroying online subsystem :Context_45
+[2022.12.22-20.24.35:346][400]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2022.12.22-20.25.31:546][ 12]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2022.12.22-20.25.49:776][735]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2022.12.22-20.26.30:047][671]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2022.12.22-20.26.50:007][493]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2022.12.22-20.27.17:747][788]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2022.12.22-20.27.18:357][817]BlueprintLog: New page: Compile PC_RTS
+[2022.12.22-20.27.18:540][817]LogUObjectHash: Compacting FUObjectHashTables data took   3.66ms
+[2022.12.22-20.27.34:927][533]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2022.12.22-20.27.42:639][946]BlueprintLog: New page: Compile PC_RTS
+[2022.12.22-20.27.42:796][946]LogUObjectHash: Compacting FUObjectHashTables data took   4.27ms
+[2022.12.22-20.27.44:138][985]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.12.22-20.27.44:159][985]LogContentBundle: [Container: RockyLevel] Generating Streaming for 0 Content Bundles.
+[2022.12.22-20.27.44:163][985]LogWorldPartition: Display: GenerateStreaming started...
+[2022.12.22-20.27.44:163][985]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.12.22-20.27.44:163][985]LogWorldPartition: Display: GetPartitionedActors took 76 us (total: 1 ms)
+[2022.12.22-20.27.44:168][985]LogWorldPartition: Display: GenerateStreaming took 5 ms (total: 198 ms)
+[2022.12.22-20.27.44:169][985]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.22-20.27.44:170][985]PIE: New page: PIE session: RockyLevel (Dec 22, 2022, 10:27:44 PM)
+[2022.12.22-20.27.44:170][985]LogPlayLevel: Creating play world package: /Game/Game/Maps/UEDPIE_0_RockyLevel
+[2022.12.22-20.27.44:178][985]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007990s)
+[2022.12.22-20.27.44:178][985]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Game/Maps/RockyLevel.RockyLevel to /Game/Game/Maps/UEDPIE_0_RockyLevel.RockyLevel (0.008074s)
+[2022.12.22-20.27.44:179][985]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.22-20.27.44:180][985]LogAIModule: Creating AISystem for world RockyLevel
+[2022.12.22-20.27.44:180][985]LogWorldPartition: ULevel::OnLevelLoaded(RockyLevel)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2022.12.22-20.27.44:180][985]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.12.22-20.27.44:180][985]LogWorldPartition: UWorldPartition::Initialize(Asset=RockyLevel, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2022.12.22-20.27.44:182][985]LogContentBundle: [Container: RockyLevel] Creating new contrainer.
+[2022.12.22-20.27.44:182][985]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 1.90 sec)
+[2022.12.22-20.27.44:182][985]LogPlayLevel: PIE: World Init took: (0.004098s)
+[2022.12.22-20.27.44:273][985]LogUObjectHash: Compacting FUObjectHashTables data took   3.34ms
+[2022.12.22-20.27.44:279][985]LogAudio: Display: Creating Audio Device:                 Id: 40, Scope: Unique, Realtime: True
+[2022.12.22-20.27.44:280][985]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.22-20.27.44:280][985]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.22-20.27.44:280][985]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.22-20.27.44:280][985]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.22-20.27.44:280][985]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2022.12.22-20.27.44:280][985]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.12.22-20.27.44:280][985]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2022.12.22-20.27.44:280][985]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.22-20.27.44:281][985]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.22-20.27.44:281][985]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.22-20.27.44:281][985]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.22-20.27.44:285][985]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.12.22-20.27.44:436][985]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek High Definition Audio)
+[2022.12.22-20.27.44:437][985]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.22-20.27.44:437][985]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.22-20.27.44:437][985]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.22-20.27.44:443][985]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=40
+[2022.12.22-20.27.44:443][985]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=40
+[2022.12.22-20.27.44:450][985]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=40
+[2022.12.22-20.27.44:450][985]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=40
+[2022.12.22-20.27.44:451][985]LogInit: FAudioDevice initialized.
+[2022.12.22-20.27.44:451][985]LogAudio: Display: Audio Device (ID: 40) registered with world 'RockyLevel'.
+[2022.12.22-20.27.44:557][985]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.22-20.27.44:558][985]LogLoad: Game class is 'GM_RTS_C'
+[2022.12.22-20.27.44:559][985]LogWorld: Bringing World /Game/Game/Maps/UEDPIE_0_RockyLevel.RockyLevel up for play (max tick rate 60) at 2022.12.22-21.27.44
+[2022.12.22-20.27.44:560][985]LogWorld: Bringing up level for play took: 0.001661
+[2022.12.22-20.27.44:568][985]LogOnline: OSS: Created online subsystem instance for: :Context_46
+[2022.12.22-20.27.44:571][985]LogWorldPartition: New Streaming Source: PC_RTS_C_0 -> Position: X=206.244 Y=-8060.775 Z=299.050
+[2022.12.22-20.27.44:571][985]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(16), CellsToLoad(0), CellsToUnload(0)
+[2022.12.22-20.27.44:571][985]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=206.244 Y=-8060.775 Z=299.050,P=0.000000 Y=0.000000 R=-0.000000
+[2022.12.22-20.27.44:579][985]LogStreaming: Display: FlushAsyncLoading(-1): 31 QueuedPackages, 0 AsyncPackages
+[2022.12.22-20.27.44:997][985]PIE: Server logged in
+[2022.12.22-20.27.45:004][985]PIE: Play in editor total start time 0.844 seconds.
+[2022.12.22-20.27.45:006][985]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2022.12.22-20.27.45:006][985]LogScript: Warning: Last function called:
+	/Game/Game/BP/Core/Player/PC_RTS.PC_RTS_C.ExecuteUbergraph_PC_RTS
+
+[2022.12.22-20.27.45:006][985]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2022.12.22-20.27.45:006][985]LogScript: Warning: Last function called:
+	/Game/Game/BP/Core/Player/PC_RTS.PC_RTS_C.ExecuteUbergraph_PC_RTS
+
+[2022.12.22-20.27.45:012][985]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2022.12.22-20.27.45:013][985]LogScript: Warning: Last function called:
+	/Game/Game/BP/Core/Player/PC_RTS.PC_RTS_C.ExecuteUbergraph_PC_RTS
+
+[2022.12.22-20.27.45:013][985]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2022.12.22-20.27.45:013][985]LogScript: Warning: Last function called:
+	/Game/Game/BP/Core/Player/PC_RTS.PC_RTS_C.ExecuteUbergraph_PC_RTS
+
+[2022.12.22-20.27.45:013][985]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2022.12.22-20.27.45:013][985]LogScript: Warning: Last function called:
+	/Game/Game/BP/Core/Player/PC_RTS.PC_RTS_C.ExecuteUbergraph_PC_RTS
+
+[2022.12.22-20.27.45:013][985]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2022.12.22-20.27.45:013][985]LogScript: Warning: Last function called:
+	/Game/Game/BP/Core/Player/PC_RTS.PC_RTS_C.ExecuteUbergraph_PC_RTS
+
+[2022.12.22-20.27.45:088][985]LogViewport: Scene viewport resized to 1317x900, mode Windowed.
+[2022.12.22-20.27.46:696][ 21]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=40
+[2022.12.22-20.28.06:227][550]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.22-20.28.06:227][550]LogWorld: BeginTearingDown for /Game/Game/Maps/UEDPIE_0_RockyLevel
+[2022.12.22-20.28.06:229][550]LogSlate: Window 'RTS Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2022.12.22-20.28.06:380][550]LogWorld: UWorld::CleanupWorld for RockyLevel, bSessionEnded=true, bCleanupResources=true
+[2022.12.22-20.28.06:380][550]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.22-20.28.06:380][550]LogContentBundle: [Container: RockyLevel] Deleting container.
+[2022.12.22-20.28.06:391][550]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.22-20.28.06:400][550]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.22-20.28.06:502][550]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.22-20.28.06:502][550]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=40
+[2022.12.22-20.28.06:506][550]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=40
+[2022.12.22-20.28.06:531][550]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2022.12.22-20.28.06:636][551]LogPlayLevel: Display: Destroying online subsystem :Context_46
+[2022.12.22-20.28.09:809][706]LogUObjectHash: Compacting FUObjectHashTables data took   3.22ms
+[2022.12.22-20.28.11:694][706]LogSlate: Window 'Save Content' being destroyed
+[2022.12.22-20.28.11:715][706]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2022.12.22-20.28.11:895][706]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game/BP/Core/Player/PC_RTS" FILE="../../../../../../Users/pawel/Documents/Unreal Projects/RTS/Content/Game/BP/Core/Player/PC_RTS.uasset" SILENT=true
+[2022.12.22-20.28.11:946][706]LogSavePackage: Moving output files for package: /Game/Game/BP/Core/Player/PC_RTS
+[2022.12.22-20.28.11:948][706]LogSavePackage: Moving '../../../../../../Users/pawel/Documents/Unreal Projects/RTS/Saved/PC_RTS388CFD9D49B8AE3464E4B8AD3D0D59BA.tmp' to '../../../../../../Users/pawel/Documents/Unreal Projects/RTS/Content/Game/BP/Core/Player/PC_RTS.uasset'
+[2022.12.22-20.28.12:066][706]LogFileHelpers: InternalPromptForCheckoutAndSave took 350 ms (total: 4.06 sec)
+[2022.12.22-20.28.12:088][706]AssetCheck: New page: Asset Save: PC_RTS
+[2022.12.22-20.28.12:088][706]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Game/BP/Core/Player/PC_RTS.PC_RTS
+[2022.12.22-20.29.18:467][405]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2022.12.22-20.29.50:996][903]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2022.12.22-20.30.11:498][956]LogEditorTransaction: Undo Resize Node
+[2022.12.22-20.30.18:550][273]BlueprintLog: New page: Compile PC_RTS
+[2022.12.22-20.30.18:705][273]LogUObjectHash: Compacting FUObjectHashTables data took   3.78ms
+[2022.12.22-20.30.19:422][299]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2022.12.22-20.30.19:602][299]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game/BP/Core/Player/PC_RTS" FILE="../../../../../../Users/pawel/Documents/Unreal Projects/RTS/Content/Game/BP/Core/Player/PC_RTS.uasset" SILENT=true
+[2022.12.22-20.30.19:656][299]LogSavePackage: Moving output files for package: /Game/Game/BP/Core/Player/PC_RTS
+[2022.12.22-20.30.19:658][299]LogSavePackage: Moving '../../../../../../Users/pawel/Documents/Unreal Projects/RTS/Saved/PC_RTS339267FD4E0DE1A5479B559B1B61EEB6.tmp' to '../../../../../../Users/pawel/Documents/Unreal Projects/RTS/Content/Game/BP/Core/Player/PC_RTS.uasset'
+[2022.12.22-20.30.19:683][299]LogFileHelpers: InternalPromptForCheckoutAndSave took 260 ms (total: 4.32 sec)
+[2022.12.22-20.30.19:696][299]AssetCheck: New page: Asset Save: PC_RTS
+[2022.12.22-20.30.19:696][299]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Game/BP/Core/Player/PC_RTS.PC_RTS
+[2022.12.22-20.30.28:080][457]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2022.12.22-20.30.28:466][457]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game/BP/Core/Player/PC_RTS" FILE="../../../../../../Users/pawel/Documents/Unreal Projects/RTS/Content/Game/BP/Core/Player/PC_RTS.uasset" SILENT=true
+[2022.12.22-20.30.28:507][457]LogSavePackage: Moving output files for package: /Game/Game/BP/Core/Player/PC_RTS
+[2022.12.22-20.30.28:508][457]LogSavePackage: Moving '../../../../../../Users/pawel/Documents/Unreal Projects/RTS/Saved/PC_RTS4D5CC8E245DC58FE602CA38F3AEF0A1A.tmp' to '../../../../../../Users/pawel/Documents/Unreal Projects/RTS/Content/Game/BP/Core/Player/PC_RTS.uasset'
+[2022.12.22-20.30.28:529][457]LogFileHelpers: InternalPromptForCheckoutAndSave took 449 ms (total: 4.77 sec)
+[2022.12.22-20.30.28:540][457]AssetCheck: New page: Asset Save: PC_RTS
+[2022.12.22-20.30.28:540][457]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Game/BP/Core/Player/PC_RTS.PC_RTS
+[2022.12.22-20.30.32:054][545]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2022.12.22-20.32.08:607][177]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
