@@ -8352,3 +8352,544 @@ Script call stack:
 [2022.12.23-22.06.00:753][442]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
 [2022.12.23-22.06.00:782][442]LogFileHelpers: InternalPromptForCheckoutAndSave took 833 ms (total: 9.12 sec)
 [2022.12.23-22.06.00:974][442]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2022.12.23-22.08.24:313][101]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.12.23-22.08.24:336][101]LogContentBrowser: Creating deferred item: NewFolder
+[2022.12.23-22.08.24:355][102]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2022.12.23-22.08.26:066][156]LogContentBrowser: Attempting asset rename: NewFolder -> Resource
+[2022.12.23-22.08.26:067][156]LogContentBrowser: End creating deferred item NewFolder
+[2022.12.23-22.08.47:031][482]LogEditorClassViewer: Warning: AssetRegistry Blueprint /Game/Characters/DwarfGrunt/Blueprint/Minion.Minion is missing tag value for GeneratedClass. Blueprint will not be available to ClassViewer when unloaded.
+[2022.12.23-22.08.47:031][482]LogEditorClassViewer: Warning: AssetRegistry Blueprint /Game/Characters/DwarfGrunt/Blueprint/DwarfGruntAnimationBlueprint_new.DwarfGruntAnimationBlueprint_new is missing tag value for GeneratedClass. Blueprint will not be available to ClassViewer when unloaded.
+[2022.12.23-22.08.47:166][482]LogEditorClassViewer: Warning: Class /Game/Buildings/Brewery/Brewery.Brewery_C has parent /Script/StrategyGame.StrategyBuilding_Brewery, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.12.23-22.08.47:166][482]LogEditorClassViewer: Warning: Class /Game/Buildings/Wall/Wall_Smithy.Wall_Smithy_C has parent /Script/StrategyGame.StrategyBuilding, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.12.23-22.08.47:166][482]LogEditorClassViewer: Warning: Class /Game/Buildings/Wall/Wall_Flamethrower.Wall_Flamethrower_C has parent /Script/StrategyGame.StrategyBuilding, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.12.23-22.08.47:166][482]LogEditorClassViewer: Warning: Class /Game/Buildings/Wall/Wall_EmptySlot_Brewery.Wall_EmptySlot_Brewery_C has parent /Script/StrategyGame.StrategyBuilding, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.12.23-22.08.47:166][482]LogEditorClassViewer: Warning: Class /Game/Buildings/Wall/Wall_EmptySlot.Wall_EmptySlot_C has parent /Script/StrategyGame.StrategyBuilding, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.12.23-22.08.47:166][482]LogEditorClassViewer: Warning: Class /Game/Buildings/Wall/Wall_Armorer.Wall_Armorer_C has parent /Script/StrategyGame.StrategyBuilding, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.12.23-22.08.47:166][482]LogEditorClassViewer: Warning: Class /Game/Buildings/Wall/Wall_arbalest_auto.Wall_arbalest_auto_C has parent /Script/StrategyGame.StrategyBuilding, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.12.23-22.08.47:166][482]LogEditorClassViewer: Warning: Class /Game/Buildings/Wall/Wall_arbalest.Wall_arbalest_C has parent /Script/StrategyGame.StrategyBuilding, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.12.23-22.08.47:166][482]LogEditorClassViewer: Warning: Class /Game/Characters/DwarfGrunt/Blueprint/Attachment_Smithy.Attachment_Smithy_C has parent /Script/StrategyGame.StrategyAttachment, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.12.23-22.08.47:166][482]LogEditorClassViewer: Warning: Class /Game/Characters/DwarfGrunt/Blueprint/Attachment_Armorer.Attachment_Armorer_C has parent /Script/StrategyGame.StrategyAttachment, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.12.23-22.08.47:166][482]LogEditorClassViewer: Warning: Class /Game/Projectiles/Projectile_arbalest_auto.Projectile_arbalest_auto_C has parent /Script/StrategyGame.StrategyProjectile, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.12.23-22.08.47:166][482]LogEditorClassViewer: Warning: Class /Game/Projectiles/BaseProjectile.BaseProjectile_C has parent /Script/StrategyGame.StrategyProjectile, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.12.23-22.08.47:166][482]LogEditorClassViewer: Warning: Class /Game/Resources/GoldPickup.GoldPickup_C has parent /Script/StrategyGame.StrategyResourceNode, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.12.23-22.08.47:166][482]LogEditorClassViewer: Warning: Class /Game/UI/MiniMapCapture.MiniMapCapture_C has parent /Script/StrategyGame.StrategyMiniMapCapture, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.12.23-22.08.47:166][482]LogEditorClassViewer: Warning: Class /Script/InteractiveToolsFramework.GizmoActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.12.23-22.08.47:167][482]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewGeometryActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.12.23-22.08.47:167][482]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewMeshActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.12.23-22.08.47:992][482]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.12.23-22.08.48:015][482]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2022.12.23-22.08.48:030][482]LogContentBrowser: Creating deferred item: NewBlueprint
+[2022.12.23-22.08.48:075][484]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2022.12.23-22.08.55:771][706]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_Resource
+[2022.12.23-22.08.55:792][706]LogContentBrowser: End creating deferred item NewBlueprint
+[2022.12.23-22.09.12:303][810]LogContentBrowser: Deferred new asset file creation: BP_Resource_Child
+[2022.12.23-22.09.12:341][810]LogContentBrowser: Creating deferred item: BP_Resource_Child
+[2022.12.23-22.09.12:365][811]LogContentBrowser: Renaming the item being created (Deferred Item: BP_Resource_Child).
+[2022.12.23-22.09.14:468][878]LogContentBrowser: Attempting asset rename: BP_Resource_Child -> BP_Gold
+[2022.12.23-22.09.14:483][878]LogContentBrowser: End creating deferred item BP_Resource_Child
+[2022.12.23-22.11.39:942][423]LogContentBrowser: Deferred new asset file creation: NewUserDefinedEnum
+[2022.12.23-22.11.39:960][423]LogContentBrowser: Creating deferred item: NewUserDefinedEnum
+[2022.12.23-22.11.39:989][424]LogContentBrowser: Renaming the item being created (Deferred Item: NewUserDefinedEnum).
+[2022.12.23-22.12.01:440][526]LogContentBrowser: Attempting asset rename: NewUserDefinedEnum -> NewUserDefinedEnum
+[2022.12.23-22.12.01:442][526]LogContentBrowser: End creating deferred item NewUserDefinedEnum
+[2022.12.23-22.12.07:904][697]LogContentBrowser: Attempting asset rename: NewUserDefinedEnum -> E_ResourceType
+[2022.12.23-22.12.07:972][697]LogMetaData: Removing '/Game/Game/BP/Core/Resource/E_ResourceType.E_ResourceType' ref from Metadata '/Game/Game/BP/Core/Resource/NewUserDefinedEnum.PackageMetaData'
+[2022.12.23-22.12.07:974][697]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2022.12.23-22.12.08:108][697]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game/BP/Core/Resource/E_ResourceType" FILE="../../../../../../Users/pawel/Documents/Unreal Projects/RTS/Content/Game/BP/Core/Resource/E_ResourceType.uasset" SILENT=true
+[2022.12.23-22.12.08:117][697]LogSavePackage: Moving output files for package: /Game/Game/BP/Core/Resource/E_ResourceType
+[2022.12.23-22.12.08:117][697]LogSavePackage: Moving '../../../../../../Users/pawel/Documents/Unreal Projects/RTS/Saved/E_ResourceType2201939A45DD8142AA8485AA32FB4C68.tmp' to '../../../../../../Users/pawel/Documents/Unreal Projects/RTS/Content/Game/BP/Core/Resource/E_ResourceType.uasset'
+[2022.12.23-22.12.08:138][697]LogFileHelpers: InternalPromptForCheckoutAndSave took 163 ms (total: 9.29 sec)
+[2022.12.23-22.12.08:423][697]LogUObjectHash: Compacting FUObjectHashTables data took   7.27ms
+[2022.12.23-22.12.08:616][697]LogUObjectHash: Compacting FUObjectHashTables data took   6.61ms
+[2022.12.23-22.12.08:807][697]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2022.12.23-22.12.08:830][697]AssetCheck: New page: Asset Save: E_ResourceType
+[2022.12.23-22.12.08:830][697]LogContentValidation: Display: Validating /Script/Engine.UserDefinedEnum /Game/Game/BP/Core/Resource/E_ResourceType.E_ResourceType
+[2022.12.23-22.12.15:397][795]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedEnum /Game/Game/BP/Core/Resource/E_ResourceType.E_ResourceType
+[2022.12.23-22.12.50:241][151]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2022.12.23-22.12.50:365][151]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game/BP/Core/Resource/E_ResourceType" FILE="../../../../../../Users/pawel/Documents/Unreal Projects/RTS/Content/Game/BP/Core/Resource/E_ResourceType.uasset" SILENT=true
+[2022.12.23-22.12.50:374][151]LogSavePackage: Moving output files for package: /Game/Game/BP/Core/Resource/E_ResourceType
+[2022.12.23-22.12.50:376][151]LogSavePackage: Moving '../../../../../../Users/pawel/Documents/Unreal Projects/RTS/Saved/E_ResourceTypeE7160B2F4524331074AB75826A3AF967.tmp' to '../../../../../../Users/pawel/Documents/Unreal Projects/RTS/Content/Game/BP/Core/Resource/E_ResourceType.uasset'
+[2022.12.23-22.12.50:397][151]LogFileHelpers: InternalPromptForCheckoutAndSave took 156 ms (total: 9.44 sec)
+[2022.12.23-22.12.50:417][151]AssetCheck: New page: Asset Save: E_ResourceType
+[2022.12.23-22.12.50:417][151]LogContentValidation: Display: Validating /Script/Engine.UserDefinedEnum /Game/Game/BP/Core/Resource/E_ResourceType.E_ResourceType
+[2022.12.23-22.12.53:616][295]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2022.12.23-22.12.53:618][295]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.23-22.12.53:736][295]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2022.12.23-22.12.53:736][295]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.23-22.12.54:053][295]LogUObjectHash: Compacting FUObjectHashTables data took   7.18ms
+[2022.12.23-22.12.56:819][419]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2022.12.23-22.12.56:819][419]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.23-22.12.57:471][419]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.12.23-22.12.57:471][419]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2022.12.23-22.12.57:471][419]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.23-22.12.58:054][419]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.12.23-22.12.58:054][419]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2022.12.23-22.12.58:054][419]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.23-22.12.58:846][419]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.12.23-22.12.58:846][419]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2022.12.23-22.12.58:846][419]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.23-22.12.59:500][419]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2022.12.23-22.12.59:500][419]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.23-22.12.59:894][419]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2022.12.23-22.12.59:894][419]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.23-22.13.00:091][419]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.12.23-22.13.00:091][419]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2022.12.23-22.13.00:091][419]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.23-22.13.18:522][951]LogUObjectHash: Compacting FUObjectHashTables data took   9.60ms
+[2022.12.23-22.13.32:545][951]LogSlate: Window 'Delete Assets' being destroyed
+[2022.12.23-22.13.34:627][ 32]LogEditorClassViewer: Warning: AssetRegistry Blueprint /Game/Characters/DwarfGrunt/Blueprint/Minion.Minion is missing tag value for GeneratedClass. Blueprint will not be available to ClassViewer when unloaded.
+[2022.12.23-22.13.34:627][ 32]LogEditorClassViewer: Warning: AssetRegistry Blueprint /Game/Characters/DwarfGrunt/Blueprint/DwarfGruntAnimationBlueprint_new.DwarfGruntAnimationBlueprint_new is missing tag value for GeneratedClass. Blueprint will not be available to ClassViewer when unloaded.
+[2022.12.23-22.13.34:674][ 32]LogEditorClassViewer: Warning: Class /Game/Buildings/Brewery/Brewery.Brewery_C has parent /Script/StrategyGame.StrategyBuilding_Brewery, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.12.23-22.13.34:674][ 32]LogEditorClassViewer: Warning: Class /Game/Buildings/Wall/Wall_Smithy.Wall_Smithy_C has parent /Script/StrategyGame.StrategyBuilding, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.12.23-22.13.34:674][ 32]LogEditorClassViewer: Warning: Class /Game/Buildings/Wall/Wall_Flamethrower.Wall_Flamethrower_C has parent /Script/StrategyGame.StrategyBuilding, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.12.23-22.13.34:674][ 32]LogEditorClassViewer: Warning: Class /Game/Buildings/Wall/Wall_EmptySlot_Brewery.Wall_EmptySlot_Brewery_C has parent /Script/StrategyGame.StrategyBuilding, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.12.23-22.13.34:674][ 32]LogEditorClassViewer: Warning: Class /Game/Buildings/Wall/Wall_EmptySlot.Wall_EmptySlot_C has parent /Script/StrategyGame.StrategyBuilding, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.12.23-22.13.34:674][ 32]LogEditorClassViewer: Warning: Class /Game/Buildings/Wall/Wall_Armorer.Wall_Armorer_C has parent /Script/StrategyGame.StrategyBuilding, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.12.23-22.13.34:674][ 32]LogEditorClassViewer: Warning: Class /Game/Buildings/Wall/Wall_arbalest_auto.Wall_arbalest_auto_C has parent /Script/StrategyGame.StrategyBuilding, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.12.23-22.13.34:674][ 32]LogEditorClassViewer: Warning: Class /Game/Buildings/Wall/Wall_arbalest.Wall_arbalest_C has parent /Script/StrategyGame.StrategyBuilding, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.12.23-22.13.34:675][ 32]LogEditorClassViewer: Warning: Class /Game/Characters/DwarfGrunt/Blueprint/Attachment_Smithy.Attachment_Smithy_C has parent /Script/StrategyGame.StrategyAttachment, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.12.23-22.13.34:675][ 32]LogEditorClassViewer: Warning: Class /Game/Characters/DwarfGrunt/Blueprint/Attachment_Armorer.Attachment_Armorer_C has parent /Script/StrategyGame.StrategyAttachment, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.12.23-22.13.34:675][ 32]LogEditorClassViewer: Warning: Class /Game/Projectiles/Projectile_arbalest_auto.Projectile_arbalest_auto_C has parent /Script/StrategyGame.StrategyProjectile, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.12.23-22.13.34:675][ 32]LogEditorClassViewer: Warning: Class /Game/Projectiles/BaseProjectile.BaseProjectile_C has parent /Script/StrategyGame.StrategyProjectile, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.12.23-22.13.34:675][ 32]LogEditorClassViewer: Warning: Class /Game/Resources/GoldPickup.GoldPickup_C has parent /Script/StrategyGame.StrategyResourceNode, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.12.23-22.13.34:675][ 32]LogEditorClassViewer: Warning: Class /Game/UI/MiniMapCapture.MiniMapCapture_C has parent /Script/StrategyGame.StrategyMiniMapCapture, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.12.23-22.13.34:675][ 32]LogEditorClassViewer: Warning: Class /Script/InteractiveToolsFramework.GizmoActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.12.23-22.13.34:676][ 32]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewGeometryActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.12.23-22.13.34:676][ 32]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewMeshActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.12.23-22.13.38:773][ 32]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.12.23-22.13.38:793][ 32]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2022.12.23-22.13.38:815][ 32]LogContentBrowser: Creating deferred item: NewBlueprint
+[2022.12.23-22.13.38:842][ 33]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2022.12.23-22.13.43:824][332]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_ResourecComponent
+[2022.12.23-22.13.43:837][332]LogContentBrowser: End creating deferred item NewBlueprint
+[2022.12.23-22.13.43:842][332]LogBlueprint: Warning: Blueprint /Game/Characters/DwarfGrunt/Blueprint/Minion is missing GeneratedClass asset tag
+[2022.12.23-22.13.43:842][332]LogBlueprint: Warning: Blueprint /Game/Characters/DwarfGrunt/Blueprint/DwarfGruntAnimationBlueprint_new is missing GeneratedClass asset tag
+[2022.12.23-22.13.59:669][554]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Game/BP/Core/Resource/BP_Resource.BP_Resource
+[2022.12.23-22.13.59:670][554]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.23-22.14.01:103][554]LogViewport: Scene viewport resized to 532x525, mode Windowed.
+[2022.12.23-22.14.02:773][610]LogViewport: Scene viewport resized to 1074x649, mode Windowed.
+[2022.12.23-22.14.03:490][626]BlueprintLog: New page: Compile BP_Resource
+[2022.12.23-22.14.03:944][626]LogUObjectHash: Compacting FUObjectHashTables data took   5.41ms
+[2022.12.23-22.14.08:184][792]LogBlueprint: Warning: Blueprint /Game/Characters/DwarfGrunt/Blueprint/Minion is missing GeneratedClass asset tag
+[2022.12.23-22.14.08:184][792]LogBlueprint: Warning: Blueprint /Game/Characters/DwarfGrunt/Blueprint/DwarfGruntAnimationBlueprint_new is missing GeneratedClass asset tag
+[2022.12.23-22.14.26:661][250]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MyFirstRTS/Core/Resource/BP_ResourceComponent.BP_ResourceComponent
+[2022.12.23-22.14.26:663][250]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.23-22.15.50:736][946]BlueprintLog: New page: Compile BP_Resource
+[2022.12.23-22.15.50:894][946]LogUObjectHash: Compacting FUObjectHashTables data took   3.43ms
+[2022.12.23-22.16.18:652][592]LogUObjectHash: Compacting FUObjectHashTables data took   3.52ms
+[2022.12.23-22.16.20:195][592]LogSlate: Window 'Delete Assets' being destroyed
+[2022.12.23-22.16.20:474][592]LogWorld: UWorld::CleanupWorld for World_37, bSessionEnded=true, bCleanupResources=true
+[2022.12.23-22.16.20:474][592]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.23-22.16.20:644][592]LogSlate: Window 'BP_Resource' being destroyed
+[2022.12.23-22.16.20:684][592]LogWorld: UWorld::CleanupWorld for World_36, bSessionEnded=true, bCleanupResources=true
+[2022.12.23-22.16.20:684][592]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.23-22.16.20:840][592]LogUObjectGlobals: Force Deleting 3 Package(s):
+	Asset Name: /Game/MyFirstRTS/Core/Resource/E_ResourceType.E_ResourceType
+	Asset Type: UserDefinedEnum
+	Asset Name: /Game/MyFirstRTS/Core/Resource/BP_ResourceComponent.BP_ResourceComponent
+	Asset Type: Blueprint
+	Asset Name: /Game/MyFirstRTS/Core/Resource/BP_Resource.BP_Resource
+	Asset Type: Blueprint
+[2022.12.23-22.16.21:985][592]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2022.12.23-22.16.22:392][592]LogObjectTools: Warning: Detected inconsistencies between reference gathering algorithms. Switching 'Editor.UseLegacyGetReferencersForDeletion' on for the remainder of this editor session.
+[2022.12.23-22.16.24:176][592]LogUObjectHash: Compacting FUObjectHashTables data took   3.61ms
+[2022.12.23-22.16.24:257][592]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2022.12.23-22.16.24:336][592]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2022.12.23-22.16.24:373][592]LogBlueprint: Warning: Blueprint /Game/Characters/DwarfGrunt/Blueprint/Minion is missing GeneratedClass asset tag
+[2022.12.23-22.16.24:373][592]LogBlueprint: Warning: Blueprint /Game/Characters/DwarfGrunt/Blueprint/DwarfGruntAnimationBlueprint_new is missing GeneratedClass asset tag
+[2022.12.23-22.16.31:243][938]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Game/BP/Core/Resource/BP_Resource.BP_Resource
+[2022.12.23-22.16.31:244][938]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.23-22.19.35:469][388]BlueprintLog: New page: Compile BP_Resource
+[2022.12.23-22.19.35:610][388]LogUObjectHash: Compacting FUObjectHashTables data took   3.59ms
+[2022.12.23-22.20.34:778][679]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedEnum /Game/Game/BP/Core/Resource/E_ResourceType.E_ResourceType
+[2022.12.23-22.20.49:709][401]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Game/BP/Core/Resource/BP_ResourecComponent.BP_ResourecComponent
+[2022.12.23-22.20.49:710][401]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.23-22.22.07:167][382]BlueprintLog: New page: Compile BP_Resource
+[2022.12.23-22.22.07:322][382]LogUObjectHash: Compacting FUObjectHashTables data took   3.86ms
+[2022.12.23-22.22.31:118][612]BlueprintLog: New page: Compile BP_ResourecComponent
+[2022.12.23-22.22.31:268][612]LogUObjectHash: Compacting FUObjectHashTables data took   3.40ms
+[2022.12.23-22.22.31:287][612]LogBlueprint: Warning: Blueprint /Game/Characters/DwarfGrunt/Blueprint/Minion is missing GeneratedClass asset tag
+[2022.12.23-22.22.31:287][612]LogBlueprint: Warning: Blueprint /Game/Characters/DwarfGrunt/Blueprint/DwarfGruntAnimationBlueprint_new is missing GeneratedClass asset tag
+[2022.12.23-22.22.38:974][892]BlueprintLog: New page: Compile BP_ResourecComponent
+[2022.12.23-22.22.39:121][892]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2022.12.23-22.22.39:137][892]LogBlueprint: Warning: Blueprint /Game/Characters/DwarfGrunt/Blueprint/Minion is missing GeneratedClass asset tag
+[2022.12.23-22.22.39:137][892]LogBlueprint: Warning: Blueprint /Game/Characters/DwarfGrunt/Blueprint/DwarfGruntAnimationBlueprint_new is missing GeneratedClass asset tag
+[2022.12.23-22.23.42:628][490]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Game/BP/Core/Resource/BP_Gold.BP_Gold
+[2022.12.23-22.23.42:629][490]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.23-22.23.43:877][490]LogViewport: Scene viewport resized to 1074x649, mode Windowed.
+[2022.12.23-22.23.57:825][ 80]LogStaticMesh: StaticMesh /Game/Environment/Meshes/SM_TD_Gold_Pile.SM_TD_Gold_Pile should be resaved to improve async compilation performance.
+[2022.12.23-22.23.58:917][ 80]LogShaderCompilers: Display: ================================================
+[2022.12.23-22.23.58:917][ 80]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.12.23-22.23.58:917][ 80]LogShaderCompilers: Display: Total job queries 3638, among them cache hits 672 (18.47%)
+[2022.12.23-22.23.58:917][ 80]LogShaderCompilers: Display: Tracking 2966 distinct input hashes that result in 1536 distinct outputs (51.79%)
+[2022.12.23-22.23.58:917][ 80]LogShaderCompilers: Display: RAM used: 21.11 MB (0.02 GB) of 614.40 MB (0.60 GB) budget. Usage: 3.44%
+[2022.12.23-22.23.58:917][ 80]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.12.23-22.23.58:917][ 80]LogShaderCompilers: Display: Shaders Compiled: 305
+[2022.12.23-22.23.58:917][ 80]LogShaderCompilers: Display: Jobs assigned 305, completed 305 (100.00%)
+[2022.12.23-22.23.58:917][ 80]LogShaderCompilers: Display: Average time worker was idle: 126.62 s
+[2022.12.23-22.23.58:917][ 80]LogShaderCompilers: Display: Time job spent in pending queue: average 72.09 s, longest 179.19 s
+[2022.12.23-22.23.58:918][ 80]LogShaderCompilers: Display: Job execution time: average 2.78 s, max 7.86 s
+[2022.12.23-22.23.58:918][ 80]LogShaderCompilers: Display: Job life time (pending + execution): average 74.87 s, max 181.23
+[2022.12.23-22.23.58:918][ 80]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 224.28 s
+[2022.12.23-22.23.58:918][ 80]LogShaderCompilers: Display: Jobs were issued in 303 batches (only local compilation was used), average 1.01 jobs/batch
+[2022.12.23-22.23.58:918][ 80]LogShaderCompilers: Display: Average processing rate: 1.36 jobs/sec
+[2022.12.23-22.23.58:918][ 80]LogShaderCompilers: Display: Total thread time: 758.49 s
+[2022.12.23-22.23.58:918][ 80]LogShaderCompilers: Display: Total thread preprocess time: 42.48 s
+[2022.12.23-22.23.58:918][ 80]LogShaderCompilers: Display: Percentage time preprocessing: 5.60%
+[2022.12.23-22.23.58:918][ 80]LogShaderCompilers: Display: Effective parallelization: 3.38 (times faster than compiling all shaders on one thread). Compare with number of workers: 4
+[2022.12.23-22.23.58:918][ 80]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2022.12.23-22.23.58:918][ 80]LogShaderCompilers: Display:                         TBasePassPSTLightMapPolicyLQSkylight (compiled    4 times, average 4.02 sec, max 7.43 sec, min 2.41 sec)
+[2022.12.23-22.23.58:918][ 80]LogShaderCompilers: Display:          TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQ (compiled    4 times, average 3.98 sec, max 7.34 sec, min 2.27 sec)
+[2022.12.23-22.23.58:918][ 80]LogShaderCompilers: Display:                         TBasePassPSTLightMapPolicyHQSkylight (compiled    4 times, average 3.97 sec, max 5.30 sec, min 2.24 sec)
+[2022.12.23-22.23.58:918][ 80]LogShaderCompilers: Display:                                 TBasePassPSTLightMapPolicyLQ (compiled    4 times, average 3.71 sec, max 5.25 sec, min 2.22 sec)
+[2022.12.23-22.23.58:918][ 80]LogShaderCompilers: Display:  TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight (compiled    4 times, average 3.49 sec, max 6.04 sec, min 2.32 sec)
+[2022.12.23-22.23.58:918][ 80]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2022.12.23-22.23.58:918][ 80]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 6.53% of total time (compiled   18 times, average 2.75 sec, max 4.60 sec, min 1.87 sec)
+[2022.12.23-22.23.58:918][ 80]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy - 6.18% of total time (compiled   15 times, average 3.12 sec, max 5.51 sec, min 2.26 sec)
+[2022.12.23-22.23.58:918][ 80]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 5.97% of total time (compiled   15 times, average 3.02 sec, max 5.81 sec, min 2.37 sec)
+[2022.12.23-22.23.58:918][ 80]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 5.94% of total time (compiled   17 times, average 2.65 sec, max 6.34 sec, min 1.81 sec)
+[2022.12.23-22.23.58:918][ 80]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 5.23% of total time (compiled   13 times, average 3.05 sec, max 7.07 sec, min 2.26 sec)
+[2022.12.23-22.23.58:918][ 80]LogShaderCompilers: Display: ================================================
+[2022.12.23-22.24.30:797][697]BlueprintLog: New page: Compile BP_Gold
+[2022.12.23-22.24.31:125][697]LogUObjectHash: Compacting FUObjectHashTables data took   4.82ms
+[2022.12.23-22.24.32:223][734]LogViewport: Scene viewport resized to 528x520, mode Windowed.
+[2022.12.23-22.24.34:697][809]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2022.12.23-22.24.34:697][809]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.23-22.24.36:352][832]LogViewport: Scene viewport resized to 526x544, mode Windowed.
+[2022.12.23-22.24.36:540][834]LogViewport: Scene viewport resized to 418x405, mode Windowed.
+[2022.12.23-22.24.36:585][835]LogViewport: Scene viewport resized to 1074x649, mode Windowed.
+[2022.12.23-22.24.38:034][892]LogWorld: UWorld::CleanupWorld for World_39, bSessionEnded=true, bCleanupResources=true
+[2022.12.23-22.24.38:035][892]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.23-22.24.38:821][916]LogSlate: Window 'BP_Resource' being destroyed
+[2022.12.23-22.24.38:856][916]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.12.23-22.24.38:856][916]LogWorld: UWorld::CleanupWorld for World_38, bSessionEnded=true, bCleanupResources=true
+[2022.12.23-22.24.38:856][916]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.23-22.24.42:353][ 14]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Game/BP/Core/Resource/BP_Gold.BP_Gold_C
+[2022.12.23-22.24.42:353][ 14]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Game/BP/Core/Resource/BP_Gold.BP_Gold_C
+[2022.12.23-22.24.42:356][ 14]LogActorFactory: Actor Factory spawned Blueprint /Game/Game/BP/Core/Resource/BP_Gold.BP_Gold as actor: BP_Gold_C /Game/Game/Maps/RockyLevel.RockyLevel:PersistentLevel.BP_Gold_C_0
+[2022.12.23-22.24.42:359][ 14]LogActorFactory: Actor Factory spawned Blueprint /Game/Game/BP/Core/Resource/BP_Gold.BP_Gold as actor: BP_Gold_C /Game/Game/Maps/RockyLevel.RockyLevel:PersistentLevel.BP_Gold_C_0
+[2022.12.23-22.24.45:797][102]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Game/BP/Core/Resource/BP_Gold.BP_Gold_C
+[2022.12.23-22.24.45:797][102]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Game/BP/Core/Resource/BP_Gold.BP_Gold_C
+[2022.12.23-22.24.45:805][102]LogActorFactory: Actor Factory spawned Blueprint /Game/Game/BP/Core/Resource/BP_Gold.BP_Gold as actor: BP_Gold_C /Game/Game/Maps/RockyLevel.RockyLevel:PersistentLevel.BP_Gold_C_UAID_54E1AD75FC57F95501_1431556748
+[2022.12.23-22.24.45:808][102]LogActorFactory: Actor Factory spawned Blueprint /Game/Game/BP/Core/Resource/BP_Gold.BP_Gold as actor: BP_Gold_C /Game/Game/Maps/RockyLevel.RockyLevel:PersistentLevel.BP_Gold_C_UAID_54E1AD75FC57F95501_1431556748
+[2022.12.23-22.24.50:094][220]Cmd: EDIT COPY
+[2022.12.23-22.24.50:345][227]Cmd: EDIT PASTE
+[2022.12.23-22.24.51:910][264]Cmd: EDIT COPY
+[2022.12.23-22.24.52:088][270]Cmd: EDIT PASTE
+[2022.12.23-22.24.53:824][314]Cmd: EDIT COPY
+[2022.12.23-22.24.54:061][322]Cmd: EDIT PASTE
+[2022.12.23-22.24.56:548][386]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2022.12.23-22.24.56:725][386]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Game/Maps/RockyLevel/C/Q3/EPKXM4J1JDWNAD9P0FRU1L
+[2022.12.23-22.24.56:725][386]LogSavePackage: Moving '../../../../../../Users/pawel/Documents/Unreal Projects/RTS/Saved/EPKXM4J1JDWNAD9P0FRU1L95AAE42044CBD837DC1EEE8074D47FD1.tmp' to '../../../../../../Users/pawel/Documents/Unreal Projects/RTS/Content/__ExternalActors__/Game/Maps/RockyLevel/C/Q3/EPKXM4J1JDWNAD9P0FRU1L.uasset'
+[2022.12.23-22.24.56:738][386]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Game/Maps/RockyLevel/A/HB/B0YEE90E16X4UUVQ4C5M6S
+[2022.12.23-22.24.56:738][386]LogSavePackage: Moving '../../../../../../Users/pawel/Documents/Unreal Projects/RTS/Saved/B0YEE90E16X4UUVQ4C5M6S05EFDEC8468E10381EAD1A81B4F03C4C.tmp' to '../../../../../../Users/pawel/Documents/Unreal Projects/RTS/Content/__ExternalActors__/Game/Maps/RockyLevel/A/HB/B0YEE90E16X4UUVQ4C5M6S.uasset'
+[2022.12.23-22.24.56:751][386]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Game/Maps/RockyLevel/0/ZG/EXLQDO0Z1ZHVPOFKN9P4XV
+[2022.12.23-22.24.56:751][386]LogSavePackage: Moving '../../../../../../Users/pawel/Documents/Unreal Projects/RTS/Saved/EXLQDO0Z1ZHVPOFKN9P4XV9D56E892400B30984B0586B304F90BD5.tmp' to '../../../../../../Users/pawel/Documents/Unreal Projects/RTS/Content/__ExternalActors__/Game/Maps/RockyLevel/0/ZG/EXLQDO0Z1ZHVPOFKN9P4XV.uasset'
+[2022.12.23-22.24.56:764][386]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Game/Maps/RockyLevel/D/X6/H4RSGAOTQAFJGD9GDAH6FE
+[2022.12.23-22.24.56:764][386]LogSavePackage: Moving '../../../../../../Users/pawel/Documents/Unreal Projects/RTS/Saved/H4RSGAOTQAFJGD9GDAH6FEDEB19D494F07FEDADB12AC899B90F1E0.tmp' to '../../../../../../Users/pawel/Documents/Unreal Projects/RTS/Content/__ExternalActors__/Game/Maps/RockyLevel/D/X6/H4RSGAOTQAFJGD9GDAH6FE.uasset'
+[2022.12.23-22.24.56:795][386]LogFileHelpers: InternalPromptForCheckoutAndSave took 247 ms (total: 9.69 sec)
+[2022.12.23-22.24.56:811][386]AssetCheck: New page: Asset Save: multiple assets
+[2022.12.23-22.24.56:811][386]LogContentValidation: Display: Validating /Game/Game/BP/Core/Resource/BP_Gold.BP_Gold_C /Game/Game/Maps/RockyLevel.RockyLevel:PersistentLevel.BP_Gold_C_UAID_54E1AD75FC57F95501_1439821751
+[2022.12.23-22.24.56:811][386]LogContentValidation: Display: Validating /Game/Game/BP/Core/Resource/BP_Gold.BP_Gold_C /Game/Game/Maps/RockyLevel.RockyLevel:PersistentLevel.BP_Gold_C_UAID_54E1AD75FC57F95501_1437848750
+[2022.12.23-22.24.56:811][386]LogContentValidation: Display: Validating /Game/Game/BP/Core/Resource/BP_Gold.BP_Gold_C /Game/Game/Maps/RockyLevel.RockyLevel:PersistentLevel.BP_Gold_C_UAID_54E1AD75FC57F95501_1436107749
+[2022.12.23-22.24.56:812][386]LogContentValidation: Display: Validating /Game/Game/BP/Core/Resource/BP_Gold.BP_Gold_C /Game/Game/Maps/RockyLevel.RockyLevel:PersistentLevel.BP_Gold_C_UAID_54E1AD75FC57F95501_1431556748
+[2022.12.23-22.24.58:898][440]LogUObjectHash: Compacting FUObjectHashTables data took   4.59ms
+[2022.12.23-22.25.00:336][440]LogSlate: Window 'Save Content' being destroyed
+[2022.12.23-22.25.00:365][440]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2022.12.23-22.25.00:551][440]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game/BP/Core/Resource/BP_Gold" FILE="../../../../../../Users/pawel/Documents/Unreal Projects/RTS/Content/Game/BP/Core/Resource/BP_Gold.uasset" SILENT=true
+[2022.12.23-22.25.00:566][440]LogSavePackage: Moving output files for package: /Game/Game/BP/Core/Resource/BP_Gold
+[2022.12.23-22.25.00:566][440]LogSavePackage: Moving '../../../../../../Users/pawel/Documents/Unreal Projects/RTS/Saved/BP_GoldC3AFED6344CE897AF807BABAA348D523.tmp' to '../../../../../../Users/pawel/Documents/Unreal Projects/RTS/Content/Game/BP/Core/Resource/BP_Gold.uasset'
+[2022.12.23-22.25.00:570][440]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game/BP/Core/Resource/BP_Resource" FILE="../../../../../../Users/pawel/Documents/Unreal Projects/RTS/Content/Game/BP/Core/Resource/BP_Resource.uasset" SILENT=true
+[2022.12.23-22.25.00:585][440]LogSavePackage: Moving output files for package: /Game/Game/BP/Core/Resource/BP_Resource
+[2022.12.23-22.25.00:585][440]LogSavePackage: Moving '../../../../../../Users/pawel/Documents/Unreal Projects/RTS/Saved/BP_ResourceE077129C4A750B864AC34DA239F78FDB.tmp' to '../../../../../../Users/pawel/Documents/Unreal Projects/RTS/Content/Game/BP/Core/Resource/BP_Resource.uasset'
+[2022.12.23-22.25.00:599][440]LogSavePackage: Moving output files for package: /Game/Game/BP/Core/Resource/BP_ResourecComponent
+[2022.12.23-22.25.00:599][440]LogSavePackage: Moving '../../../../../../Users/pawel/Documents/Unreal Projects/RTS/Saved/BP_ResourecComponentF1A374294BA243CA5F379F86909E2686.tmp' to '../../../../../../Users/pawel/Documents/Unreal Projects/RTS/Content/Game/BP/Core/Resource/BP_ResourecComponent.uasset'
+[2022.12.23-22.25.00:602][440]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game/BP/Core/Resource/E_ResourceType" FILE="../../../../../../Users/pawel/Documents/Unreal Projects/RTS/Content/Game/BP/Core/Resource/E_ResourceType.uasset" SILENT=true
+[2022.12.23-22.25.00:609][440]LogSavePackage: Moving output files for package: /Game/Game/BP/Core/Resource/E_ResourceType
+[2022.12.23-22.25.00:610][440]LogSavePackage: Moving '../../../../../../Users/pawel/Documents/Unreal Projects/RTS/Saved/E_ResourceType6E11CD9A4C96D785AAE92C933F81F6D6.tmp' to '../../../../../../Users/pawel/Documents/Unreal Projects/RTS/Content/Game/BP/Core/Resource/E_ResourceType.uasset'
+[2022.12.23-22.25.00:634][440]LogFileHelpers: InternalPromptForCheckoutAndSave took 269 ms (total: 9.96 sec)
+[2022.12.23-22.25.00:649][440]AssetCheck: New page: Asset Save: multiple assets
+[2022.12.23-22.25.00:649][440]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Game/BP/Core/Resource/BP_ResourecComponent.BP_ResourecComponent
+[2022.12.23-22.25.00:649][440]LogContentValidation: Display: Validating /Script/Engine.UserDefinedEnum /Game/Game/BP/Core/Resource/E_ResourceType.E_ResourceType
+[2022.12.23-22.25.00:650][440]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Game/BP/Core/Resource/BP_Gold.BP_Gold
+[2022.12.23-22.25.00:650][440]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Game/BP/Core/Resource/BP_Resource.BP_Resource
+[2022.12.23-22.25.00:691][441]LogBlueprint: Warning: Blueprint /Game/Characters/DwarfGrunt/Blueprint/Minion is missing GeneratedClass asset tag
+[2022.12.23-22.25.00:691][441]LogBlueprint: Warning: Blueprint /Game/Characters/DwarfGrunt/Blueprint/DwarfGruntAnimationBlueprint_new is missing GeneratedClass asset tag
+[2022.12.23-22.30.19:916][975]LogViewport: Scene viewport resized to 1074x647, mode Windowed.
+[2022.12.23-22.30.54:700][849]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Game/BP/Core/Resource/BP_Resource.BP_Resource
+[2022.12.23-22.30.54:701][849]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.23-22.31.47:536][695]BlueprintLog: New page: Compile BP_Gold
+[2022.12.23-22.31.47:540][695]LogBlueprint: Error: [AssetLog] C:\Users\pawel\Documents\Unreal Projects\RTS\Content\Game\BP\Core\Resource\BP_Gold.uasset: [Compiler] The property associated with  Resource Type  could not be found in '/Game/Game/BP/Core/Resource/BP_Gold.BP_Gold_C'
+[2022.12.23-22.31.47:718][695]LogUObjectHash: Compacting FUObjectHashTables data took   4.29ms
+[2022.12.23-22.32.45:639][597]BlueprintLog: New page: Compile BP_Gold
+[2022.12.23-22.32.45:808][597]LogUObjectHash: Compacting FUObjectHashTables data took   4.09ms
+[2022.12.23-22.33.17:236][419]LogUObjectHash: Compacting FUObjectHashTables data took   4.97ms
+[2022.12.23-22.33.18:406][419]LogSlate: Window 'Save Content' being destroyed
+[2022.12.23-22.33.18:431][419]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2022.12.23-22.33.18:585][419]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Game/Maps/RockyLevel/C/Q3/EPKXM4J1JDWNAD9P0FRU1L
+[2022.12.23-22.33.18:587][419]LogSavePackage: Moving '../../../../../../Users/pawel/Documents/Unreal Projects/RTS/Saved/EPKXM4J1JDWNAD9P0FRU1L17F111E945A4FEF3DA6A5A965E93CA9D.tmp' to '../../../../../../Users/pawel/Documents/Unreal Projects/RTS/Content/__ExternalActors__/Game/Maps/RockyLevel/C/Q3/EPKXM4J1JDWNAD9P0FRU1L.uasset'
+[2022.12.23-22.33.18:631][419]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game/BP/Core/Resource/BP_Gold" FILE="../../../../../../Users/pawel/Documents/Unreal Projects/RTS/Content/Game/BP/Core/Resource/BP_Gold.uasset" SILENT=true
+[2022.12.23-22.33.18:647][419]LogSavePackage: Moving output files for package: /Game/Game/BP/Core/Resource/BP_Gold
+[2022.12.23-22.33.18:649][419]LogSavePackage: Moving '../../../../../../Users/pawel/Documents/Unreal Projects/RTS/Saved/BP_GoldDF54DF8544AA12A810BFF9A4D6085902.tmp' to '../../../../../../Users/pawel/Documents/Unreal Projects/RTS/Content/Game/BP/Core/Resource/BP_Gold.uasset'
+[2022.12.23-22.33.18:660][419]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Game/Maps/RockyLevel/A/HB/B0YEE90E16X4UUVQ4C5M6S
+[2022.12.23-22.33.18:662][419]LogSavePackage: Moving '../../../../../../Users/pawel/Documents/Unreal Projects/RTS/Saved/B0YEE90E16X4UUVQ4C5M6S9F3E1D0A48AC410FFCC1A0B8C9A938E7.tmp' to '../../../../../../Users/pawel/Documents/Unreal Projects/RTS/Content/__ExternalActors__/Game/Maps/RockyLevel/A/HB/B0YEE90E16X4UUVQ4C5M6S.uasset'
+[2022.12.23-22.33.18:675][419]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Game/Maps/RockyLevel/0/ZG/EXLQDO0Z1ZHVPOFKN9P4XV
+[2022.12.23-22.33.18:676][419]LogSavePackage: Moving '../../../../../../Users/pawel/Documents/Unreal Projects/RTS/Saved/EXLQDO0Z1ZHVPOFKN9P4XVC53C51C74393687D53A1A4A7C62D87AE.tmp' to '../../../../../../Users/pawel/Documents/Unreal Projects/RTS/Content/__ExternalActors__/Game/Maps/RockyLevel/0/ZG/EXLQDO0Z1ZHVPOFKN9P4XV.uasset'
+[2022.12.23-22.33.18:689][419]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Game/Maps/RockyLevel/D/X6/H4RSGAOTQAFJGD9GDAH6FE
+[2022.12.23-22.33.18:691][419]LogSavePackage: Moving '../../../../../../Users/pawel/Documents/Unreal Projects/RTS/Saved/H4RSGAOTQAFJGD9GDAH6FEF11966CD413A6872B9ED2E88C40DAE9B.tmp' to '../../../../../../Users/pawel/Documents/Unreal Projects/RTS/Content/__ExternalActors__/Game/Maps/RockyLevel/D/X6/H4RSGAOTQAFJGD9GDAH6FE.uasset'
+[2022.12.23-22.33.18:694][419]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game/BP/Core/Resource/BP_Resource" FILE="../../../../../../Users/pawel/Documents/Unreal Projects/RTS/Content/Game/BP/Core/Resource/BP_Resource.uasset" SILENT=true
+[2022.12.23-22.33.18:709][419]LogSavePackage: Moving output files for package: /Game/Game/BP/Core/Resource/BP_Resource
+[2022.12.23-22.33.18:711][419]LogSavePackage: Moving '../../../../../../Users/pawel/Documents/Unreal Projects/RTS/Saved/BP_Resource7151E59745811DF55E559ABCABFCFAE0.tmp' to '../../../../../../Users/pawel/Documents/Unreal Projects/RTS/Content/Game/BP/Core/Resource/BP_Resource.uasset'
+[2022.12.23-22.33.18:738][419]LogFileHelpers: InternalPromptForCheckoutAndSave took 305 ms (total: 10.2 sec)
+[2022.12.23-22.33.18:762][419]AssetCheck: New page: Asset Save: multiple assets
+[2022.12.23-22.33.18:762][419]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Game/BP/Core/Resource/BP_Gold.BP_Gold
+[2022.12.23-22.33.18:762][419]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Game/BP/Core/Resource/BP_Resource.BP_Resource
+[2022.12.23-22.33.18:762][419]LogContentValidation: Display: Validating /Game/Game/BP/Core/Resource/BP_Gold.BP_Gold_C /Game/Game/Maps/RockyLevel.RockyLevel:PersistentLevel.BP_Gold_C_UAID_54E1AD75FC57F95501_1436107749
+[2022.12.23-22.33.18:763][419]LogContentValidation: Display: Validating /Game/Game/BP/Core/Resource/BP_Gold.BP_Gold_C /Game/Game/Maps/RockyLevel.RockyLevel:PersistentLevel.BP_Gold_C_UAID_54E1AD75FC57F95501_1431556748
+[2022.12.23-22.33.18:763][419]LogContentValidation: Display: Validating /Game/Game/BP/Core/Resource/BP_Gold.BP_Gold_C /Game/Game/Maps/RockyLevel.RockyLevel:PersistentLevel.BP_Gold_C_UAID_54E1AD75FC57F95501_1439821751
+[2022.12.23-22.33.18:763][419]LogContentValidation: Display: Validating /Game/Game/BP/Core/Resource/BP_Gold.BP_Gold_C /Game/Game/Maps/RockyLevel.RockyLevel:PersistentLevel.BP_Gold_C_UAID_54E1AD75FC57F95501_1437848750
+[2022.12.23-22.33.20:002][451]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.12.23-22.33.20:030][451]LogContentBundle: [Container: RockyLevel] Generating Streaming for 0 Content Bundles.
+[2022.12.23-22.33.20:033][451]LogWorldPartition: Display: GenerateStreaming started...
+[2022.12.23-22.33.20:033][451]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.12.23-22.33.20:033][451]LogWorldPartition: Display: GetPartitionedActors took 34 us (total: 1 ms)
+[2022.12.23-22.33.20:048][451]LogWorldPartition: Display: GenerateStreaming took 14 ms (total: 278 ms)
+[2022.12.23-22.33.20:054][451]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.12.23-22.33.20:056][451]LogPlayLevel: [PlayLevel] Compiling BP_Resource before play...
+[2022.12.23-22.33.20:056][451]LogPlayLevel: [PlayLevel]   Compiling BP_Gold as a dependent...
+[2022.12.23-22.33.20:185][451]LogPlayLevel: [PlayLevel] Compiling PROTO_BP_AnimBlueprint_0 before play...
+[2022.12.23-22.33.20:328][451]LogUObjectHash: Compacting FUObjectHashTables data took   4.85ms
+[2022.12.23-22.33.20:332][451]LogPlayLevel: PlayLevel: Blueprint regeneration took 277 ms (3 blueprints)
+[2022.12.23-22.33.20:332][451]PIE: New page: PIE session: RockyLevel (Dec 24, 2022, 12:33:20 AM)
+[2022.12.23-22.33.20:332][451]LogPlayLevel: Creating play world package: /Game/Game/Maps/UEDPIE_0_RockyLevel
+[2022.12.23-22.33.20:364][451]LogPlayLevel: PIE: StaticDuplicateObject took: (0.031353s)
+[2022.12.23-22.33.20:364][451]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Game/Maps/RockyLevel.RockyLevel to /Game/Game/Maps/UEDPIE_0_RockyLevel.RockyLevel (0.031412s)
+[2022.12.23-22.33.20:364][451]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.23-22.33.20:365][451]LogAIModule: Creating AISystem for world RockyLevel
+[2022.12.23-22.33.20:366][451]LogWorldPartition: ULevel::OnLevelLoaded(RockyLevel)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2022.12.23-22.33.20:366][451]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.12.23-22.33.20:366][451]LogWorldPartition: UWorldPartition::Initialize(Asset=RockyLevel, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2022.12.23-22.33.20:367][451]LogContentBundle: [Container: RockyLevel] Creating new contrainer.
+[2022.12.23-22.33.20:368][451]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 2.56 sec)
+[2022.12.23-22.33.20:368][451]LogPlayLevel: PIE: World Init took: (0.003969s)
+[2022.12.23-22.33.20:479][451]LogUObjectHash: Compacting FUObjectHashTables data took   4.34ms
+[2022.12.23-22.33.20:482][451]LogAudio: Display: Creating Audio Device:                 Id: 55, Scope: Unique, Realtime: True
+[2022.12.23-22.33.20:482][451]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.23-22.33.20:482][451]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.23-22.33.20:482][451]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.23-22.33.20:482][451]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.23-22.33.20:482][451]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2022.12.23-22.33.20:482][451]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.12.23-22.33.20:483][451]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2022.12.23-22.33.20:483][451]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.23-22.33.20:483][451]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.23-22.33.20:484][451]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.23-22.33.20:484][451]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.23-22.33.20:488][451]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.12.23-22.33.20:538][451]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek High Definition Audio)
+[2022.12.23-22.33.20:539][451]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.23-22.33.20:539][451]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.23-22.33.20:539][451]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.23-22.33.20:540][451]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=55
+[2022.12.23-22.33.20:541][451]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=55
+[2022.12.23-22.33.20:544][451]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=55
+[2022.12.23-22.33.20:544][451]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=55
+[2022.12.23-22.33.20:544][451]LogInit: FAudioDevice initialized.
+[2022.12.23-22.33.20:544][451]LogAudio: Display: Audio Device (ID: 55) registered with world 'RockyLevel'.
+[2022.12.23-22.33.20:551][451]LogLoad: Game class is 'GM_RTS_C'
+[2022.12.23-22.33.20:553][451]LogWorld: Bringing World /Game/Game/Maps/UEDPIE_0_RockyLevel.RockyLevel up for play (max tick rate 60) at 2022.12.23-23.33.20
+[2022.12.23-22.33.20:553][451]LogWorld: Bringing up level for play took: 0.002077
+[2022.12.23-22.33.20:557][451]LogOnline: OSS: Created online subsystem instance for: :Context_97
+[2022.12.23-22.33.20:559][451]LogWorldPartition: New Streaming Source: PC_RTS_C_0 -> Position: X=-3783.438 Y=-1578.804 Z=2289.797
+[2022.12.23-22.33.20:560][451]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(16), CellsToLoad(0), CellsToUnload(0)
+[2022.12.23-22.33.20:560][451]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=-3783.438 Y=-1578.804 Z=2289.797,P=-0.000000 Y=-17.000000 R=0.000000
+[2022.12.23-22.33.20:563][451]LogStreaming: Display: FlushAsyncLoading(-1): 20 QueuedPackages, 0 AsyncPackages
+[2022.12.23-22.33.20:795][451]LogShaderCompilers: Display: ================================================
+[2022.12.23-22.33.20:795][451]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.12.23-22.33.20:795][451]LogShaderCompilers: Display: Total job queries 3640, among them cache hits 674 (18.52%)
+[2022.12.23-22.33.20:795][451]LogShaderCompilers: Display: Tracking 2966 distinct input hashes that result in 1536 distinct outputs (51.79%)
+[2022.12.23-22.33.20:795][451]LogShaderCompilers: Display: RAM used: 21.11 MB (0.02 GB) of 614.40 MB (0.60 GB) budget. Usage: 3.44%
+[2022.12.23-22.33.20:795][451]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.12.23-22.33.20:795][451]LogShaderCompilers: Display: Shaders Compiled: 305
+[2022.12.23-22.33.20:795][451]LogShaderCompilers: Display: Jobs assigned 305, completed 305 (100.00%)
+[2022.12.23-22.33.20:795][451]LogShaderCompilers: Display: Average time worker was idle: 126.62 s
+[2022.12.23-22.33.20:795][451]LogShaderCompilers: Display: Time job spent in pending queue: average 72.09 s, longest 179.19 s
+[2022.12.23-22.33.20:795][451]LogShaderCompilers: Display: Job execution time: average 2.78 s, max 7.86 s
+[2022.12.23-22.33.20:795][451]LogShaderCompilers: Display: Job life time (pending + execution): average 74.87 s, max 181.23
+[2022.12.23-22.33.20:795][451]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 224.28 s
+[2022.12.23-22.33.20:795][451]LogShaderCompilers: Display: Jobs were issued in 303 batches (only local compilation was used), average 1.01 jobs/batch
+[2022.12.23-22.33.20:796][451]LogShaderCompilers: Display: Average processing rate: 1.36 jobs/sec
+[2022.12.23-22.33.20:796][451]LogShaderCompilers: Display: Total thread time: 758.49 s
+[2022.12.23-22.33.20:796][451]LogShaderCompilers: Display: Total thread preprocess time: 42.48 s
+[2022.12.23-22.33.20:796][451]LogShaderCompilers: Display: Percentage time preprocessing: 5.60%
+[2022.12.23-22.33.20:796][451]LogShaderCompilers: Display: Effective parallelization: 3.38 (times faster than compiling all shaders on one thread). Compare with number of workers: 4
+[2022.12.23-22.33.20:796][451]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2022.12.23-22.33.20:796][451]LogShaderCompilers: Display:                         TBasePassPSTLightMapPolicyLQSkylight (compiled    4 times, average 4.02 sec, max 7.43 sec, min 2.41 sec)
+[2022.12.23-22.33.20:796][451]LogShaderCompilers: Display:          TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQ (compiled    4 times, average 3.98 sec, max 7.34 sec, min 2.27 sec)
+[2022.12.23-22.33.20:796][451]LogShaderCompilers: Display:                         TBasePassPSTLightMapPolicyHQSkylight (compiled    4 times, average 3.97 sec, max 5.30 sec, min 2.24 sec)
+[2022.12.23-22.33.20:796][451]LogShaderCompilers: Display:                                 TBasePassPSTLightMapPolicyLQ (compiled    4 times, average 3.71 sec, max 5.25 sec, min 2.22 sec)
+[2022.12.23-22.33.20:796][451]LogShaderCompilers: Display:  TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight (compiled    4 times, average 3.49 sec, max 6.04 sec, min 2.32 sec)
+[2022.12.23-22.33.20:796][451]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2022.12.23-22.33.20:796][451]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 6.53% of total time (compiled   18 times, average 2.75 sec, max 4.60 sec, min 1.87 sec)
+[2022.12.23-22.33.20:796][451]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy - 6.18% of total time (compiled   15 times, average 3.12 sec, max 5.51 sec, min 2.26 sec)
+[2022.12.23-22.33.20:796][451]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 5.97% of total time (compiled   15 times, average 3.02 sec, max 5.81 sec, min 2.37 sec)
+[2022.12.23-22.33.20:796][451]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 5.94% of total time (compiled   17 times, average 2.65 sec, max 6.34 sec, min 1.81 sec)
+[2022.12.23-22.33.20:796][451]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 5.23% of total time (compiled   13 times, average 3.05 sec, max 7.07 sec, min 2.26 sec)
+[2022.12.23-22.33.20:796][451]LogShaderCompilers: Display: ================================================
+[2022.12.23-22.33.20:892][451]PIE: Server logged in
+[2022.12.23-22.33.20:893][451]PIE: Play in editor total start time 0.862 seconds.
+[2022.12.23-22.34.06:446][845]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.23-22.34.06:447][845]LogWorld: BeginTearingDown for /Game/Game/Maps/UEDPIE_0_RockyLevel
+[2022.12.23-22.34.06:464][845]LogWorld: UWorld::CleanupWorld for RockyLevel, bSessionEnded=true, bCleanupResources=true
+[2022.12.23-22.34.06:465][845]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.23-22.34.06:465][845]LogContentBundle: [Container: RockyLevel] Deleting container.
+[2022.12.23-22.34.06:508][845]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.23-22.34.06:525][845]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.23-22.34.06:637][845]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.23-22.34.06:637][845]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=55
+[2022.12.23-22.34.06:641][845]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=55
+[2022.12.23-22.34.06:674][845]LogUObjectHash: Compacting FUObjectHashTables data took   4.98ms
+[2022.12.23-22.34.06:774][846]LogPlayLevel: Display: Destroying online subsystem :Context_97
+[2022.12.23-22.36.28:599][605]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Environment/Meshes/SM_TD_Gold_Pile.SM_TD_Gold_Pile
+[2022.12.23-22.36.28:631][605]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.23-22.36.29:929][605]LogViewport: Scene viewport resized to 1403x858, mode Windowed.
+[2022.12.23-22.37.05:148][754]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/Game/Maps/RockyLevel.RockyLevel:PersistentLevel.RecastNavMesh_UAID_54E1AD75FC57F45501-Default).
+[2022.12.23-22.37.10:334][921]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/Game/Maps/RockyLevel.RockyLevel:PersistentLevel.RecastNavMesh_UAID_54E1AD75FC57F45501-Default).
+[2022.12.23-22.37.12:086][984]Cmd: TRANSACTION UNDO
+[2022.12.23-22.37.12:086][984]LogEditorTransaction: Undo Create Convex Collision
+[2022.12.23-22.37.12:394][984]Cmd: TRANSACTION UNDO
+[2022.12.23-22.37.12:394][984]LogEditorTransaction: Undo Create Convex Collision
+[2022.12.23-22.37.18:002][126]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2022.12.23-22.37.18:191][126]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Environment/Meshes/SM_TD_Gold_Pile" FILE="../../../../../../Users/pawel/Documents/Unreal Projects/RTS/Content/Environment/Meshes/SM_TD_Gold_Pile.uasset" SILENT=true
+[2022.12.23-22.37.18:213][126]LogSavePackage: Moving output files for package: /Game/Environment/Meshes/SM_TD_Gold_Pile
+[2022.12.23-22.37.18:215][126]LogSavePackage: Moving '../../../../../../Users/pawel/Documents/Unreal Projects/RTS/Saved/SM_TD_Gold_Pile172CD1974B8A25F06B9FB69BD166CD87.tmp' to '../../../../../../Users/pawel/Documents/Unreal Projects/RTS/Content/Environment/Meshes/SM_TD_Gold_Pile.uasset'
+[2022.12.23-22.37.18:239][126]LogFileHelpers: InternalPromptForCheckoutAndSave took 236 ms (total: 10.5 sec)
+[2022.12.23-22.37.18:262][126]AssetCheck: New page: Asset Save: SM_TD_Gold_Pile
+[2022.12.23-22.37.18:262][126]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Environment/Meshes/SM_TD_Gold_Pile.SM_TD_Gold_Pile
+[2022.12.23-22.37.22:014][231]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Game/BP/Core/Building/BP_TownHall.BP_TownHall
+[2022.12.23-22.37.22:015][231]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.23-22.37.26:639][393]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Environment/Meshes/Sm_TD_Brewery_01.Sm_TD_Brewery_01
+[2022.12.23-22.37.26:650][393]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.23-22.37.27:941][393]LogViewport: Scene viewport resized to 1403x858, mode Windowed.
+[2022.12.23-22.37.48:145][894]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2022.12.23-22.37.48:334][894]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Environment/Meshes/Sm_TD_Brewery_01" FILE="../../../../../../Users/pawel/Documents/Unreal Projects/RTS/Content/Environment/Meshes/Sm_TD_Brewery_01.uasset" SILENT=true
+[2022.12.23-22.37.48:375][894]LogSavePackage: Moving output files for package: /Game/Environment/Meshes/Sm_TD_Brewery_01
+[2022.12.23-22.37.48:377][894]LogSavePackage: Moving '../../../../../../Users/pawel/Documents/Unreal Projects/RTS/Saved/Sm_TD_Brewery_011D9DBD1B4F62400B2BB04397860220F7.tmp' to '../../../../../../Users/pawel/Documents/Unreal Projects/RTS/Content/Environment/Meshes/Sm_TD_Brewery_01.uasset'
+[2022.12.23-22.37.48:403][894]LogFileHelpers: InternalPromptForCheckoutAndSave took 257 ms (total: 10.7 sec)
+[2022.12.23-22.37.48:419][894]AssetCheck: New page: Asset Save: Sm_TD_Brewery_01
+[2022.12.23-22.37.48:419][894]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Environment/Meshes/Sm_TD_Brewery_01.Sm_TD_Brewery_01
+[2022.12.23-22.37.53:497][998]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.12.23-22.37.53:521][998]LogContentBundle: [Container: RockyLevel] Generating Streaming for 0 Content Bundles.
+[2022.12.23-22.37.53:525][998]LogWorldPartition: Display: GenerateStreaming started...
+[2022.12.23-22.37.53:525][998]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.12.23-22.37.53:525][998]LogWorldPartition: Display: GetPartitionedActors took 35 us (total: 1 ms)
+[2022.12.23-22.37.53:539][998]LogWorldPartition: Display: GenerateStreaming took 13 ms (total: 291 ms)
+[2022.12.23-22.37.53:545][998]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.23-22.37.53:545][998]PIE: New page: PIE session: RockyLevel (Dec 24, 2022, 12:37:53 AM)
+[2022.12.23-22.37.53:545][998]LogPlayLevel: Creating play world package: /Game/Game/Maps/UEDPIE_0_RockyLevel
+[2022.12.23-22.37.53:583][998]LogPlayLevel: PIE: StaticDuplicateObject took: (0.037235s)
+[2022.12.23-22.37.53:583][998]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Game/Maps/RockyLevel.RockyLevel to /Game/Game/Maps/UEDPIE_0_RockyLevel.RockyLevel (0.037296s)
+[2022.12.23-22.37.53:583][998]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.23-22.37.53:584][998]LogAIModule: Creating AISystem for world RockyLevel
+[2022.12.23-22.37.53:585][998]LogWorldPartition: ULevel::OnLevelLoaded(RockyLevel)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2022.12.23-22.37.53:585][998]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.12.23-22.37.53:585][998]LogWorldPartition: UWorldPartition::Initialize(Asset=RockyLevel, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2022.12.23-22.37.53:586][998]LogContentBundle: [Container: RockyLevel] Creating new contrainer.
+[2022.12.23-22.37.53:586][998]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 2.56 sec)
+[2022.12.23-22.37.53:586][998]LogPlayLevel: PIE: World Init took: (0.003841s)
+[2022.12.23-22.37.53:720][998]LogUObjectHash: Compacting FUObjectHashTables data took   4.00ms
+[2022.12.23-22.37.53:725][998]LogAudio: Display: Creating Audio Device:                 Id: 56, Scope: Unique, Realtime: True
+[2022.12.23-22.37.53:725][998]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.23-22.37.53:725][998]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.23-22.37.53:725][998]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.23-22.37.53:726][998]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.23-22.37.53:726][998]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2022.12.23-22.37.53:726][998]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.12.23-22.37.53:726][998]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2022.12.23-22.37.53:726][998]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.23-22.37.53:726][998]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.23-22.37.53:727][998]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.23-22.37.53:727][998]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.23-22.37.53:731][998]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.12.23-22.37.53:781][998]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek High Definition Audio)
+[2022.12.23-22.37.53:781][998]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.23-22.37.53:781][998]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.23-22.37.53:781][998]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.23-22.37.53:784][998]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=56
+[2022.12.23-22.37.53:784][998]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=56
+[2022.12.23-22.37.53:787][998]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=56
+[2022.12.23-22.37.53:787][998]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=56
+[2022.12.23-22.37.53:787][998]LogInit: FAudioDevice initialized.
+[2022.12.23-22.37.53:787][998]LogAudio: Display: Audio Device (ID: 56) registered with world 'RockyLevel'.
+[2022.12.23-22.37.53:793][998]LogLoad: Game class is 'GM_RTS_C'
+[2022.12.23-22.37.53:795][998]LogWorld: Bringing World /Game/Game/Maps/UEDPIE_0_RockyLevel.RockyLevel up for play (max tick rate 60) at 2022.12.23-23.37.53
+[2022.12.23-22.37.53:795][998]LogWorld: Bringing up level for play took: 0.002193
+[2022.12.23-22.37.53:801][998]LogOnline: OSS: Created online subsystem instance for: :Context_101
+[2022.12.23-22.37.53:803][998]LogWorldPartition: New Streaming Source: PC_RTS_C_0 -> Position: X=-3730.611 Y=-373.998 Z=3821.885
+[2022.12.23-22.37.53:803][998]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(16), CellsToLoad(0), CellsToUnload(0)
+[2022.12.23-22.37.53:803][998]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=-3730.611 Y=-373.998 Z=3821.885,P=-0.000000 Y=-17.000000 R=0.000000
+[2022.12.23-22.37.53:824][998]LogStreaming: Display: FlushAsyncLoading(-1): 15 QueuedPackages, 0 AsyncPackages
+[2022.12.23-22.37.54:027][998]LogShaderCompilers: Display: ================================================
+[2022.12.23-22.37.54:027][998]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.12.23-22.37.54:027][998]LogShaderCompilers: Display: Total job queries 3674, among them cache hits 708 (19.27%)
+[2022.12.23-22.37.54:027][998]LogShaderCompilers: Display: Tracking 2966 distinct input hashes that result in 1536 distinct outputs (51.79%)
+[2022.12.23-22.37.54:027][998]LogShaderCompilers: Display: RAM used: 21.11 MB (0.02 GB) of 614.40 MB (0.60 GB) budget. Usage: 3.44%
+[2022.12.23-22.37.54:027][998]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.12.23-22.37.54:027][998]LogShaderCompilers: Display: Shaders Compiled: 305
+[2022.12.23-22.37.54:027][998]LogShaderCompilers: Display: Jobs assigned 305, completed 305 (100.00%)
+[2022.12.23-22.37.54:027][998]LogShaderCompilers: Display: Average time worker was idle: 126.62 s
+[2022.12.23-22.37.54:027][998]LogShaderCompilers: Display: Time job spent in pending queue: average 72.09 s, longest 179.19 s
+[2022.12.23-22.37.54:027][998]LogShaderCompilers: Display: Job execution time: average 2.78 s, max 7.86 s
+[2022.12.23-22.37.54:027][998]LogShaderCompilers: Display: Job life time (pending + execution): average 74.87 s, max 181.23
+[2022.12.23-22.37.54:027][998]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 224.28 s
+[2022.12.23-22.37.54:027][998]LogShaderCompilers: Display: Jobs were issued in 303 batches (only local compilation was used), average 1.01 jobs/batch
+[2022.12.23-22.37.54:027][998]LogShaderCompilers: Display: Average processing rate: 1.36 jobs/sec
+[2022.12.23-22.37.54:027][998]LogShaderCompilers: Display: Total thread time: 758.49 s
+[2022.12.23-22.37.54:027][998]LogShaderCompilers: Display: Total thread preprocess time: 42.48 s
+[2022.12.23-22.37.54:027][998]LogShaderCompilers: Display: Percentage time preprocessing: 5.60%
+[2022.12.23-22.37.54:027][998]LogShaderCompilers: Display: Effective parallelization: 3.38 (times faster than compiling all shaders on one thread). Compare with number of workers: 4
+[2022.12.23-22.37.54:027][998]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2022.12.23-22.37.54:027][998]LogShaderCompilers: Display:                         TBasePassPSTLightMapPolicyLQSkylight (compiled    4 times, average 4.02 sec, max 7.43 sec, min 2.41 sec)
+[2022.12.23-22.37.54:027][998]LogShaderCompilers: Display:          TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQ (compiled    4 times, average 3.98 sec, max 7.34 sec, min 2.27 sec)
+[2022.12.23-22.37.54:027][998]LogShaderCompilers: Display:                         TBasePassPSTLightMapPolicyHQSkylight (compiled    4 times, average 3.97 sec, max 5.30 sec, min 2.24 sec)
+[2022.12.23-22.37.54:027][998]LogShaderCompilers: Display:                                 TBasePassPSTLightMapPolicyLQ (compiled    4 times, average 3.71 sec, max 5.25 sec, min 2.22 sec)
+[2022.12.23-22.37.54:027][998]LogShaderCompilers: Display:  TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight (compiled    4 times, average 3.49 sec, max 6.04 sec, min 2.32 sec)
+[2022.12.23-22.37.54:027][998]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2022.12.23-22.37.54:027][998]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 6.53% of total time (compiled   18 times, average 2.75 sec, max 4.60 sec, min 1.87 sec)
+[2022.12.23-22.37.54:027][998]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy - 6.18% of total time (compiled   15 times, average 3.12 sec, max 5.51 sec, min 2.26 sec)
+[2022.12.23-22.37.54:027][998]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 5.97% of total time (compiled   15 times, average 3.02 sec, max 5.81 sec, min 2.37 sec)
+[2022.12.23-22.37.54:027][998]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 5.94% of total time (compiled   17 times, average 2.65 sec, max 6.34 sec, min 1.81 sec)
+[2022.12.23-22.37.54:027][998]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 5.23% of total time (compiled   13 times, average 3.05 sec, max 7.07 sec, min 2.26 sec)
+[2022.12.23-22.37.54:027][998]LogShaderCompilers: Display: ================================================
+[2022.12.23-22.37.54:130][998]PIE: Server logged in
+[2022.12.23-22.37.54:132][998]PIE: Play in editor total start time 0.611 seconds.
+[2022.12.23-22.38.34:319][190]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.23-22.38.34:319][190]LogWorld: BeginTearingDown for /Game/Game/Maps/UEDPIE_0_RockyLevel
+[2022.12.23-22.38.34:328][190]LogWorld: UWorld::CleanupWorld for RockyLevel, bSessionEnded=true, bCleanupResources=true
+[2022.12.23-22.38.34:329][190]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.23-22.38.34:329][190]LogContentBundle: [Container: RockyLevel] Deleting container.
+[2022.12.23-22.38.34:368][190]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.23-22.38.34:382][190]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.23-22.38.34:509][190]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.23-22.38.34:511][190]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=56
+[2022.12.23-22.38.34:514][190]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=56
+[2022.12.23-22.38.34:523][190]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.23-22.38.34:540][190]LogUObjectHash: Compacting FUObjectHashTables data took   5.31ms
+[2022.12.23-22.38.34:641][191]LogPlayLevel: Display: Destroying online subsystem :Context_101
+[2022.12.23-22.38.36:805][234]LogUObjectHash: Compacting FUObjectHashTables data took   4.09ms
+[2022.12.23-22.38.37:759][234]LogSlate: Window 'Save Content' being destroyed
+[2022.12.23-22.38.37:781][234]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2022.12.23-22.38.37:935][234]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Game/Maps/RockyLevel/C/Q3/EPKXM4J1JDWNAD9P0FRU1L
+[2022.12.23-22.38.37:937][234]LogSavePackage: Moving '../../../../../../Users/pawel/Documents/Unreal Projects/RTS/Saved/EPKXM4J1JDWNAD9P0FRU1L009EF4AD4E47AC3A10C6C4BB6C7BFC73.tmp' to '../../../../../../Users/pawel/Documents/Unreal Projects/RTS/Content/__ExternalActors__/Game/Maps/RockyLevel/C/Q3/EPKXM4J1JDWNAD9P0FRU1L.uasset'
+[2022.12.23-22.38.37:950][234]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Game/Maps/RockyLevel/A/HB/B0YEE90E16X4UUVQ4C5M6S
+[2022.12.23-22.38.37:952][234]LogSavePackage: Moving '../../../../../../Users/pawel/Documents/Unreal Projects/RTS/Saved/B0YEE90E16X4UUVQ4C5M6S1E6F0C024AA2DC5BC36CC094DB31E8D7.tmp' to '../../../../../../Users/pawel/Documents/Unreal Projects/RTS/Content/__ExternalActors__/Game/Maps/RockyLevel/A/HB/B0YEE90E16X4UUVQ4C5M6S.uasset'
+[2022.12.23-22.38.37:964][234]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Game/Maps/RockyLevel/0/ZG/EXLQDO0Z1ZHVPOFKN9P4XV
+[2022.12.23-22.38.37:966][234]LogSavePackage: Moving '../../../../../../Users/pawel/Documents/Unreal Projects/RTS/Saved/EXLQDO0Z1ZHVPOFKN9P4XV335BBB2E43A9547F2D179BBC4ED53BC0.tmp' to '../../../../../../Users/pawel/Documents/Unreal Projects/RTS/Content/__ExternalActors__/Game/Maps/RockyLevel/0/ZG/EXLQDO0Z1ZHVPOFKN9P4XV.uasset'
+[2022.12.23-22.38.37:978][234]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Game/Maps/RockyLevel/D/X6/H4RSGAOTQAFJGD9GDAH6FE
+[2022.12.23-22.38.37:979][234]LogSavePackage: Moving '../../../../../../Users/pawel/Documents/Unreal Projects/RTS/Saved/H4RSGAOTQAFJGD9GDAH6FE515CEA654E07CF3EEDC100A03A96A52F.tmp' to '../../../../../../Users/pawel/Documents/Unreal Projects/RTS/Content/__ExternalActors__/Game/Maps/RockyLevel/D/X6/H4RSGAOTQAFJGD9GDAH6FE.uasset'
+[2022.12.23-22.38.38:007][234]LogFileHelpers: InternalPromptForCheckoutAndSave took 225 ms (total: 10.9 sec)
+[2022.12.23-22.38.38:022][234]AssetCheck: New page: Asset Save: multiple assets
+[2022.12.23-22.38.38:022][234]LogContentValidation: Display: Validating /Game/Game/BP/Core/Resource/BP_Gold.BP_Gold_C /Game/Game/Maps/RockyLevel.RockyLevel:PersistentLevel.BP_Gold_C_UAID_54E1AD75FC57F95501_1436107749
+[2022.12.23-22.38.38:022][234]LogContentValidation: Display: Validating /Game/Game/BP/Core/Resource/BP_Gold.BP_Gold_C /Game/Game/Maps/RockyLevel.RockyLevel:PersistentLevel.BP_Gold_C_UAID_54E1AD75FC57F95501_1431556748
+[2022.12.23-22.38.38:023][234]LogContentValidation: Display: Validating /Game/Game/BP/Core/Resource/BP_Gold.BP_Gold_C /Game/Game/Maps/RockyLevel.RockyLevel:PersistentLevel.BP_Gold_C_UAID_54E1AD75FC57F95501_1439821751
+[2022.12.23-22.38.38:023][234]LogContentValidation: Display: Validating /Game/Game/BP/Core/Resource/BP_Gold.BP_Gold_C /Game/Game/Maps/RockyLevel.RockyLevel:PersistentLevel.BP_Gold_C_UAID_54E1AD75FC57F95501_1437848750
