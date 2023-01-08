@@ -10170,3 +10170,572 @@ Script call stack:
 [2023.01.08-19.47.50:215][240]LogContentValidation: Display: Validating /Game/Game/BP/Core/Unit/Worker/BP_Worker.BP_Worker_C /Game/Game/Maps/RockyLevel.RockyLevel:PersistentLevel.BP_Worker_C_UAID_54E1AD75FC57465601_1150335297
 [2023.01.08-19.47.50:215][240]LogContentValidation: Display: Validating /Game/Game/BP/Core/Unit/Worker/BP_Worker.BP_Worker_C /Game/Game/Maps/RockyLevel.RockyLevel:PersistentLevel.BP_Worker_C_UAID_049226DA5D91F85A01_1085636856
 [2023.01.08-19.47.50:215][240]LogContentValidation: Display: Validating /Game/Game/BP/Core/Unit/Worker/BP_Worker.BP_Worker_C /Game/Game/Maps/RockyLevel.RockyLevel:PersistentLevel.BP_Worker_C_UAID_049226DA5D91F85A01_1083902855
+[2023.01.08-19.48.29:803][381]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.01.08-19.48.29:811][381]LogContentBundle: [Container: RockyLevel] Generating Streaming for 0 Content Bundles.
+[2023.01.08-19.48.29:813][381]LogWorldPartition: Display: GenerateStreaming started...
+[2023.01.08-19.48.29:813][381]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.01.08-19.48.29:813][381]LogWorldPartition: Display: GetPartitionedActors took 19 us (total: 1 ms)
+[2023.01.08-19.48.29:813][381]LogWorldPartition: Display: GenerateStreaming took 414 us (total: 57 ms)
+[2023.01.08-19.48.29:910][381]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.01.08-19.48.29:910][381]PIE: New page: PIE session: RockyLevel (8 sty 2023, 21:48:29)
+[2023.01.08-19.48.29:910][381]LogPlayLevel: Creating play world package: /Game/Game/Maps/UEDPIE_0_RockyLevel
+[2023.01.08-19.48.29:920][381]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009363s)
+[2023.01.08-19.48.29:920][381]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Game/Maps/RockyLevel.RockyLevel to /Game/Game/Maps/UEDPIE_0_RockyLevel.RockyLevel (0.009390s)
+[2023.01.08-19.48.29:920][381]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.08-19.48.29:920][381]LogAIModule: Creating AISystem for world RockyLevel
+[2023.01.08-19.48.29:921][381]LogWorldPartition: ULevel::OnLevelLoaded(RockyLevel)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2023.01.08-19.48.29:921][381]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.01.08-19.48.29:921][381]LogWorldPartition: UWorldPartition::Initialize(Asset=RockyLevel, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.01.08-19.48.29:922][381]LogContentBundle: [Container: RockyLevel] Creating new contrainer.
+[2023.01.08-19.48.29:922][381]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 6.48 sec)
+[2023.01.08-19.48.29:922][381]LogPlayLevel: PIE: World Init took: (0.002369s)
+[2023.01.08-19.48.29:990][381]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2023.01.08-19.48.29:995][381]LogAudio: Display: Creating Audio Device:                 Id: 75, Scope: Unique, Realtime: True
+[2023.01.08-19.48.29:995][381]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.01.08-19.48.29:995][381]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.01.08-19.48.29:995][381]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.01.08-19.48.29:996][381]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.01.08-19.48.29:996][381]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.01.08-19.48.29:996][381]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.01.08-19.48.29:996][381]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.01.08-19.48.29:996][381]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.01.08-19.48.29:996][381]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.01.08-19.48.29:996][381]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.01.08-19.48.29:996][381]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.01.08-19.48.29:998][381]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.01.08-19.48.30:014][381]LogAudioMixer: Display: Using Audio Hardware Device Speakers (High Definition Audio Device)
+[2023.01.08-19.48.30:014][381]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.01.08-19.48.30:014][381]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.01.08-19.48.30:014][381]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.01.08-19.48.30:015][381]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=75
+[2023.01.08-19.48.30:015][381]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=75
+[2023.01.08-19.48.30:017][381]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=75
+[2023.01.08-19.48.30:017][381]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=75
+[2023.01.08-19.48.30:017][381]LogInit: FAudioDevice initialized.
+[2023.01.08-19.48.30:017][381]LogAudio: Display: Audio Device (ID: 75) registered with world 'RockyLevel'.
+[2023.01.08-19.48.30:022][381]LogLoad: Game class is 'GM_RTS_C'
+[2023.01.08-19.48.30:024][381]LogWorld: Bringing World /Game/Game/Maps/UEDPIE_0_RockyLevel.RockyLevel up for play (max tick rate 0) at 2023.01.08-20.48.30
+[2023.01.08-19.48.30:025][381]LogWorld: Bringing up level for play took: 0.003479
+[2023.01.08-19.48.30:027][381]LogOnline: OSS: Created online subsystem instance for: :Context_131
+[2023.01.08-19.48.30:028][381]LogWorldPartition: New Streaming Source: PC_RTS_C_0 -> Position: X=-2210.000 Y=-1260.000 Z=3260.000
+[2023.01.08-19.48.30:029][381]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(16), CellsToLoad(0), CellsToUnload(0)
+[2023.01.08-19.48.30:029][381]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=-2210.000 Y=-1260.000 Z=3260.000,P=0.000000 Y=0.000000 R=-0.000000
+[2023.01.08-19.48.30:030][381]LogStreaming: Display: FlushAsyncLoading(-1): 23 QueuedPackages, 0 AsyncPackages
+[2023.01.08-19.48.30:142][381]PIE: Server logged in
+[2023.01.08-19.48.30:143][381]PIE: Play in editor total start time 0,332 seconds.
+[2023.01.08-19.48.37:798][736]LogBlueprintUserMessages: [BP_Gold_C_UAID_54E1AD75FC57F95501_1439821751] I was gathered
+[2023.01.08-19.48.39:216][806]LogBlueprintUserMessages: [BP_Gold_C_UAID_049226DA5D91F75A01_1671336675] I was gathered
+[2023.01.08-19.48.39:825][836]LogBlueprintUserMessages: [BP_Gold_C_UAID_54E1AD75FC57F95501_1437848750] I was gathered
+[2023.01.08-19.48.41:060][897]LogBlueprintUserMessages: [BP_Gold_C_UAID_049226DA5D91F75A01_1673335676] I was gathered
+[2023.01.08-19.48.41:996][943]LogBlueprintUserMessages: [BP_Gold_C_UAID_54E1AD75FC57F95501_1431556748] I was gathered
+[2023.01.08-19.48.42:279][957]LogBlueprintUserMessages: [BP_Gold_C_UAID_54E1AD75FC57F95501_1439821751] I was gathered
+[2023.01.08-19.48.42:911][988]LogBlueprintUserMessages: [BP_Gold_C_UAID_049226DA5D91F75A01_1674749677] I was gathered
+[2023.01.08-19.48.44:760][ 79]LogBlueprintUserMessages: [BP_Gold_C_UAID_049226DA5D91F75A01_1671336675] I was gathered
+[2023.01.08-19.48.45:066][ 94]LogBlueprintUserMessages: [BP_Gold_C_UAID_049226DA5D91F75A01_1676844678] I was gathered
+[2023.01.08-19.48.46:041][142]LogBlueprintUserMessages: [BP_Gold_C_UAID_54E1AD75FC57F95501_1437848750] I was gathered
+[2023.01.08-19.48.46:428][161]LogBlueprintUserMessages: [BP_Gold_C_UAID_54E1AD75FC57F95501_1439821751] I was gathered
+[2023.01.08-19.48.47:057][192]LogBlueprintUserMessages: [BP_Gold_C_UAID_049226DA5D91F75A01_1673335676] I was gathered
+[2023.01.08-19.48.47:179][198]LogBlueprintUserMessages: [BP_Gold_C_UAID_049226DA5D91F75A01_1674749677] I was gathered
+[2023.01.08-19.48.47:282][203]LogBlueprintUserMessages: [BP_Gold_C_UAID_049226DA5D91F75A01_1673335676] I was gathered
+[2023.01.08-19.48.47:404][209]LogBlueprintUserMessages: [BP_Gold_C_UAID_54E1AD75FC57F95501_1431556748] I was gathered
+[2023.01.08-19.48.50:187][346]LogBlueprintUserMessages: [BP_Gold_C_UAID_049226DA5D91F75A01_1671336675] I was gathered
+[2023.01.08-19.48.50:552][364]LogBlueprintUserMessages: [BP_Gold_C_UAID_54E1AD75FC57F95501_1439821751] I was gathered
+[2023.01.08-19.48.51:161][394]LogBlueprintUserMessages: [BP_Gold_C_UAID_049226DA5D91F75A01_1676844678] I was gathered
+[2023.01.08-19.48.51:385][405]LogBlueprintUserMessages: [BP_Gold_C_UAID_049226DA5D91F75A01_1674749677] I was gathered
+[2023.01.08-19.48.51:689][420]LogBlueprintUserMessages: [BP_Gold_C_UAID_54E1AD75FC57F95501_1437848750] I was gathered
+[2023.01.08-19.48.53:133][491]LogBlueprintUserMessages: [BP_Gold_C_UAID_049226DA5D91F75A01_1673335676] I was gathered
+[2023.01.08-19.48.53:133][491]LogBlueprintUserMessages: [BP_Gold_C_UAID_54E1AD75FC57F95501_1431556748] I was gathered
+[2023.01.08-19.48.54:656][566]LogBlueprintUserMessages: [BP_Gold_C_UAID_54E1AD75FC57F95501_1439821751] I was gathered
+[2023.01.08-19.48.55:043][585]LogBlueprintUserMessages: [BP_Gold_C_UAID_049226DA5D91F75A01_1673335676] I was gathered
+[2023.01.08-19.48.55:539][607]LogBlueprintUserMessages: [BP_Gold_C_UAID_049226DA5D91F75A01_1674749677] I was gathered
+[2023.01.08-19.48.55:641][612]LogBlueprintUserMessages: [BP_Gold_C_UAID_049226DA5D91F75A01_1671336675] I was gathered
+[2023.01.08-19.48.57:264][692]LogBlueprintUserMessages: [BP_Gold_C_UAID_049226DA5D91F75A01_1676844678] I was gathered
+[2023.01.08-19.48.57:325][695]LogBlueprintUserMessages: [BP_Gold_C_UAID_54E1AD75FC57F95501_1437848750] I was gathered
+[2023.01.08-19.48.58:136][735]LogBlueprintUserMessages: [BP_Gold_C_UAID_54E1AD75FC57F95501_1431556748] I was gathered
+[2023.01.08-19.48.58:805][768]LogBlueprintUserMessages: [BP_Gold_C_UAID_54E1AD75FC57F95501_1439821751] I was gathered
+[2023.01.08-19.48.59:616][808]LogBlueprintUserMessages: [BP_Gold_C_UAID_049226DA5D91F75A01_1673335676] I was gathered
+[2023.01.08-19.48.59:698][812]LogBlueprintUserMessages: [BP_Gold_C_UAID_049226DA5D91F75A01_1674749677] I was gathered
+[2023.01.08-19.49.01:137][883]LogBlueprintUserMessages: [BP_Gold_C_UAID_049226DA5D91F75A01_1671336675] I was gathered
+[2023.01.08-19.49.02:150][933]LogBlueprintUserMessages: [BP_Gold_C_UAID_049226DA5D91F75A01_1673335676] I was gathered
+[2023.01.08-19.49.02:943][972]LogBlueprintUserMessages: [BP_Gold_C_UAID_54E1AD75FC57F95501_1437848750] I was gathered
+[2023.01.08-19.49.02:963][973]LogBlueprintUserMessages: [BP_Gold_C_UAID_54E1AD75FC57F95501_1439821751] I was gathered
+[2023.01.08-19.49.03:126][981]LogBlueprintUserMessages: [BP_Gold_C_UAID_54E1AD75FC57F95501_1431556748] I was gathered
+[2023.01.08-19.49.03:369][993]LogBlueprintUserMessages: [BP_Gold_C_UAID_049226DA5D91F75A01_1676844678] I was gathered
+[2023.01.08-19.49.03:855][ 17]LogBlueprintUserMessages: [BP_Gold_C_UAID_049226DA5D91F75A01_1674749677] I was gathered
+[2023.01.08-19.49.06:306][138]LogBlueprintUserMessages: [BP_Gold_C_UAID_049226DA5D91F75A01_1673335676] I was gathered
+[2023.01.08-19.49.06:591][152]LogBlueprintUserMessages: [BP_Gold_C_UAID_049226DA5D91F75A01_1671336675] I was gathered
+[2023.01.08-19.49.07:120][178]LogBlueprintUserMessages: [BP_Gold_C_UAID_54E1AD75FC57F95501_1439821751] I was gathered
+[2023.01.08-19.49.08:153][229]LogBlueprintUserMessages: [BP_Gold_C_UAID_049226DA5D91F75A01_1674749677] I was gathered
+[2023.01.08-19.49.08:559][249]LogBlueprintUserMessages: [BP_Gold_C_UAID_54E1AD75FC57F95501_1437848750] I was gathered
+[2023.01.08-19.49.09:125][277]LogBlueprintUserMessages: [BP_Gold_C_UAID_049226DA5D91F75A01_1673335676] I was gathered
+[2023.01.08-19.49.09:286][285]LogBlueprintUserMessages: [BP_Gold_C_UAID_54E1AD75FC57F95501_1431556748] I was gathered
+[2023.01.08-19.49.09:470][294]LogBlueprintUserMessages: [BP_Gold_C_UAID_049226DA5D91F75A01_1676844678] I was gathered
+[2023.01.08-19.49.11:237][381]LogBlueprintUserMessages: [BP_Gold_C_UAID_54E1AD75FC57F95501_1439821751] I was gathered
+[2023.01.08-19.49.11:585][396]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.08-19.49.11:585][396]LogWorld: BeginTearingDown for /Game/Game/Maps/UEDPIE_0_RockyLevel
+[2023.01.08-19.49.11:590][396]LogWorld: UWorld::CleanupWorld for RockyLevel, bSessionEnded=true, bCleanupResources=true
+[2023.01.08-19.49.11:591][396]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.08-19.49.11:591][396]LogContentBundle: [Container: RockyLevel] Deleting container.
+[2023.01.08-19.49.11:599][396]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.01.08-19.49.11:608][396]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.08-19.49.11:682][396]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.08-19.49.11:682][396]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=75
+[2023.01.08-19.49.11:684][396]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=75
+[2023.01.08-19.49.11:695][396]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2023.01.08-19.49.11:738][397]LogPlayLevel: Display: Destroying online subsystem :Context_131
+[2023.01.08-19.50.07:992][740]BlueprintLog: New page: Compile BP_Worker
+[2023.01.08-19.50.08:223][740]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2023.01.08-19.51.08:740][800]BlueprintLog: New page: Compile BP_Worker
+[2023.01.08-19.51.08:959][800]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2023.01.08-19.51.10:205][871]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.01.08-19.51.10:214][871]LogContentBundle: [Container: RockyLevel] Generating Streaming for 0 Content Bundles.
+[2023.01.08-19.51.10:216][871]LogWorldPartition: Display: GenerateStreaming started...
+[2023.01.08-19.51.10:216][871]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.01.08-19.51.10:216][871]LogWorldPartition: Display: GetPartitionedActors took 18 us (total: 1 ms)
+[2023.01.08-19.51.10:289][871]LogWorldPartition: Display: GenerateStreaming took 73 ms (total: 130 ms)
+[2023.01.08-19.51.10:290][871]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.01.08-19.51.10:290][871]PIE: New page: PIE session: RockyLevel (8 sty 2023, 21:51:10)
+[2023.01.08-19.51.10:290][871]LogPlayLevel: Creating play world package: /Game/Game/Maps/UEDPIE_0_RockyLevel
+[2023.01.08-19.51.10:300][871]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009751s)
+[2023.01.08-19.51.10:300][871]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Game/Maps/RockyLevel.RockyLevel to /Game/Game/Maps/UEDPIE_0_RockyLevel.RockyLevel (0.009788s)
+[2023.01.08-19.51.10:300][871]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.08-19.51.10:300][871]LogAIModule: Creating AISystem for world RockyLevel
+[2023.01.08-19.51.10:301][871]LogWorldPartition: ULevel::OnLevelLoaded(RockyLevel)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2023.01.08-19.51.10:301][871]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.01.08-19.51.10:301][871]LogWorldPartition: UWorldPartition::Initialize(Asset=RockyLevel, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.01.08-19.51.10:302][871]LogContentBundle: [Container: RockyLevel] Creating new contrainer.
+[2023.01.08-19.51.10:302][871]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 6.48 sec)
+[2023.01.08-19.51.10:302][871]LogPlayLevel: PIE: World Init took: (0.002635s)
+[2023.01.08-19.51.10:372][871]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2023.01.08-19.51.10:375][871]LogAudio: Display: Creating Audio Device:                 Id: 76, Scope: Unique, Realtime: True
+[2023.01.08-19.51.10:375][871]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.01.08-19.51.10:375][871]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.01.08-19.51.10:375][871]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.01.08-19.51.10:375][871]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.01.08-19.51.10:375][871]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.01.08-19.51.10:375][871]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.01.08-19.51.10:375][871]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.01.08-19.51.10:375][871]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.01.08-19.51.10:376][871]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.01.08-19.51.10:376][871]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.01.08-19.51.10:376][871]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.01.08-19.51.10:378][871]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.01.08-19.51.10:395][871]LogAudioMixer: Display: Using Audio Hardware Device Speakers (High Definition Audio Device)
+[2023.01.08-19.51.10:395][871]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.01.08-19.51.10:395][871]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.01.08-19.51.10:395][871]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.01.08-19.51.10:395][871]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=76
+[2023.01.08-19.51.10:395][871]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=76
+[2023.01.08-19.51.10:397][871]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=76
+[2023.01.08-19.51.10:397][871]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=76
+[2023.01.08-19.51.10:397][871]LogInit: FAudioDevice initialized.
+[2023.01.08-19.51.10:397][871]LogAudio: Display: Audio Device (ID: 76) registered with world 'RockyLevel'.
+[2023.01.08-19.51.10:450][871]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.08-19.51.10:450][871]LogLoad: Game class is 'GM_RTS_C'
+[2023.01.08-19.51.10:453][871]LogWorld: Bringing World /Game/Game/Maps/UEDPIE_0_RockyLevel.RockyLevel up for play (max tick rate 0) at 2023.01.08-20.51.10
+[2023.01.08-19.51.10:454][871]LogWorld: Bringing up level for play took: 0.004138
+[2023.01.08-19.51.10:456][871]LogOnline: OSS: Created online subsystem instance for: :Context_132
+[2023.01.08-19.51.10:457][871]LogWorldPartition: New Streaming Source: PC_RTS_C_0 -> Position: X=-2210.000 Y=-1260.000 Z=3260.000
+[2023.01.08-19.51.10:457][871]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(16), CellsToLoad(0), CellsToUnload(0)
+[2023.01.08-19.51.10:457][871]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=-2210.000 Y=-1260.000 Z=3260.000,P=0.000000 Y=0.000000 R=-0.000000
+[2023.01.08-19.51.10:459][871]LogStreaming: Display: FlushAsyncLoading(-1): 23 QueuedPackages, 0 AsyncPackages
+[2023.01.08-19.51.10:578][871]PIE: Server logged in
+[2023.01.08-19.51.10:581][871]PIE: Play in editor total start time 0,367 seconds.
+[2023.01.08-19.51.10:584][871]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.01.08-19.51.10:584][871]LogScript: Warning: Last function called:
+	/Game/Game/BP/Core/Player/PC_RTS.PC_RTS_C.ExecuteUbergraph_PC_RTS
+
+[2023.01.08-19.51.10:584][871]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.01.08-19.51.10:584][871]LogScript: Warning: Last function called:
+	/Game/Game/BP/Core/Player/PC_RTS.PC_RTS_C.ExecuteUbergraph_PC_RTS
+
+[2023.01.08-19.51.10:584][871]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.01.08-19.51.10:584][871]LogScript: Warning: Last function called:
+	/Game/Game/BP/Core/Player/PC_RTS.PC_RTS_C.ExecuteUbergraph_PC_RTS
+
+[2023.01.08-19.51.10:584][871]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.01.08-19.51.10:584][871]LogScript: Warning: Last function called:
+	/Game/Game/BP/Core/Player/PC_RTS.PC_RTS_C.ExecuteUbergraph_PC_RTS
+
+[2023.01.08-19.51.10:584][871]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.01.08-19.51.10:584][871]LogScript: Warning: Last function called:
+	/Game/Game/BP/Core/Player/PC_RTS.PC_RTS_C.ExecuteUbergraph_PC_RTS
+
+[2023.01.08-19.51.10:584][871]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.01.08-19.51.10:584][871]LogScript: Warning: Last function called:
+	/Game/Game/BP/Core/Player/PC_RTS.PC_RTS_C.ExecuteUbergraph_PC_RTS
+
+[2023.01.08-19.51.10:612][871]LogViewport: Scene viewport resized to 2088x2040, mode Windowed.
+[2023.01.08-19.51.18:973][242]LogBlueprintUserMessages: [BP_Gold_C_UAID_54E1AD75FC57F95501_1439821751] I was gathered
+[2023.01.08-19.51.20:450][311]LogBlueprintUserMessages: [BP_Gold_C_UAID_049226DA5D91F75A01_1671336675] I was gathered
+[2023.01.08-19.51.21:063][340]LogBlueprintUserMessages: [BP_Gold_C_UAID_54E1AD75FC57F95501_1437848750] I was gathered
+[2023.01.08-19.51.22:259][396]LogBlueprintUserMessages: [BP_Gold_C_UAID_049226DA5D91F75A01_1673335676] I was gathered
+[2023.01.08-19.51.23:194][440]LogBlueprintUserMessages: [BP_Gold_C_UAID_54E1AD75FC57F95501_1431556748] I was gathered
+[2023.01.08-19.51.23:449][452]LogBlueprintUserMessages: [BP_Gold_C_UAID_54E1AD75FC57F95501_1439821751] I was gathered
+[2023.01.08-19.51.25:690][557]LogBlueprintUserMessages: [BP_Gold_C_UAID_049226DA5D91F75A01_1674749677] I was gathered
+[2023.01.08-19.51.26:010][572]LogBlueprintUserMessages: [BP_Gold_C_UAID_049226DA5D91F75A01_1671336675] I was gathered
+[2023.01.08-19.51.27:035][620]LogBlueprintUserMessages: [BP_Gold_C_UAID_54E1AD75FC57F95501_1437848750] I was gathered
+[2023.01.08-19.51.27:290][632]LogBlueprintUserMessages: [BP_Gold_C_UAID_54E1AD75FC57F95501_1437848750] I was gathered
+[2023.01.08-19.51.27:569][645]LogBlueprintUserMessages: [BP_Gold_C_UAID_54E1AD75FC57F95501_1439821751] I was gathered
+[2023.01.08-19.51.27:676][650]LogBlueprintUserMessages: [BP_Gold_C_UAID_049226DA5D91F75A01_1676844678] I was gathered
+[2023.01.08-19.51.28:210][675]LogBlueprintUserMessages: [BP_Gold_C_UAID_049226DA5D91F75A01_1673335676] I was gathered
+[2023.01.08-19.51.28:316][680]LogBlueprintUserMessages: [BP_Gold_C_UAID_54E1AD75FC57F95501_1437848750] I was gathered
+[2023.01.08-19.51.28:614][694]LogBlueprintUserMessages: [BP_Gold_C_UAID_54E1AD75FC57F95501_1431556748] I was gathered
+[2023.01.08-19.51.29:275][725]LogBlueprintUserMessages: [BP_Gold_C_UAID_54E1AD75FC57F95501_1437848750] I was gathered
+[2023.01.08-19.51.31:474][828]LogBlueprintUserMessages: [BP_Gold_C_UAID_049226DA5D91F75A01_1671336675] I was gathered
+[2023.01.08-19.51.31:687][838]LogBlueprintUserMessages: [BP_Gold_C_UAID_54E1AD75FC57F95501_1439821751] I was gathered
+[2023.01.08-19.51.31:730][840]LogBlueprintUserMessages: [BP_Gold_C_UAID_049226DA5D91F75A01_1674749677] I was gathered
+[2023.01.08-19.51.31:986][852]LogBlueprintUserMessages: [BP_Gold_C_UAID_54E1AD75FC57F95501_1437848750] I was gathered
+[2023.01.08-19.51.32:947][897]LogBlueprintUserMessages: [BP_Gold_C_UAID_54E1AD75FC57F95501_1437848750] I was gathered
+[2023.01.08-19.51.33:224][910]LogBlueprintUserMessages: [BP_Gold_C_UAID_54E1AD75FC57F95501_1437848750] I was gathered
+[2023.01.08-19.51.33:671][931]LogBlueprintUserMessages: [BP_Gold_C_UAID_54E1AD75FC57F95501_1431556748] I was gathered
+[2023.01.08-19.51.33:799][937]LogBlueprintUserMessages: [BP_Gold_C_UAID_049226DA5D91F75A01_1676844678] I was gathered
+[2023.01.08-19.51.34:357][963]LogBlueprintUserMessages: [BP_Gold_C_UAID_049226DA5D91F75A01_1673335676] I was gathered
+[2023.01.08-19.51.34:464][968]LogBlueprintUserMessages: [BP_Gold_C_UAID_54E1AD75FC57F95501_1437848750] I was gathered
+[2023.01.08-19.51.35:809][ 31]LogBlueprintUserMessages: [BP_Gold_C_UAID_54E1AD75FC57F95501_1439821751] I was gathered
+[2023.01.08-19.51.35:851][ 33]LogBlueprintUserMessages: [BP_Gold_C_UAID_049226DA5D91F75A01_1674749677] I was gathered
+[2023.01.08-19.51.36:939][ 84]LogBlueprintUserMessages: [BP_Gold_C_UAID_049226DA5D91F75A01_1671336675] I was gathered
+[2023.01.08-19.51.38:241][145]LogBlueprintUserMessages: [BP_Gold_C_UAID_54E1AD75FC57F95501_1437848750] I was gathered
+[2023.01.08-19.51.38:541][159]LogBlueprintUserMessages: [BP_Gold_C_UAID_54E1AD75FC57F95501_1437848750] I was gathered
+[2023.01.08-19.51.38:668][165]LogBlueprintUserMessages: [BP_Gold_C_UAID_54E1AD75FC57F95501_1431556748] I was gathered
+[2023.01.08-19.51.39:908][223]LogBlueprintUserMessages: [BP_Gold_C_UAID_54E1AD75FC57F95501_1439821751] I was gathered
+[2023.01.08-19.51.39:909][223]LogBlueprintUserMessages: [BP_Gold_C_UAID_049226DA5D91F75A01_1676844678] I was gathered
+[2023.01.08-19.51.39:972][226]LogBlueprintUserMessages: [BP_Gold_C_UAID_049226DA5D91F75A01_1673335676] I was gathered
+[2023.01.08-19.51.39:994][227]LogBlueprintUserMessages: [BP_Gold_C_UAID_049226DA5D91F75A01_1674749677] I was gathered
+[2023.01.08-19.51.42:387][339]LogBlueprintUserMessages: [BP_Gold_C_UAID_049226DA5D91F75A01_1671336675] I was gathered
+[2023.01.08-19.51.43:113][373]LogBlueprintUserMessages: [BP_Gold_C_UAID_54E1AD75FC57F95501_1437848750] I was gathered
+[2023.01.08-19.51.43:646][398]LogBlueprintUserMessages: [BP_Gold_C_UAID_54E1AD75FC57F95501_1431556748] I was gathered
+[2023.01.08-19.51.44:012][415]LogBlueprintUserMessages: [BP_Gold_C_UAID_54E1AD75FC57F95501_1439821751] I was gathered
+[2023.01.08-19.51.44:118][420]LogBlueprintUserMessages: [BP_Gold_C_UAID_049226DA5D91F75A01_1674749677] I was gathered
+[2023.01.08-19.51.44:141][421]LogBlueprintUserMessages: [BP_Gold_C_UAID_54E1AD75FC57F95501_1437848750] I was gathered
+[2023.01.08-19.51.45:532][486]LogBlueprintUserMessages: [BP_Gold_C_UAID_049226DA5D91F75A01_1673335676] I was gathered
+[2023.01.08-19.51.46:024][509]LogBlueprintUserMessages: [BP_Gold_C_UAID_049226DA5D91F75A01_1676844678] I was gathered
+[2023.01.08-19.51.47:862][595]LogBlueprintUserMessages: [BP_Gold_C_UAID_049226DA5D91F75A01_1671336675] I was gathered
+[2023.01.08-19.51.48:119][607]LogBlueprintUserMessages: [BP_Gold_C_UAID_54E1AD75FC57F95501_1439821751] I was gathered
+[2023.01.08-19.51.48:268][614]LogBlueprintUserMessages: [BP_Gold_C_UAID_049226DA5D91F75A01_1674749677] I was gathered
+[2023.01.08-19.51.48:591][629]LogBlueprintUserMessages: [BP_Gold_C_UAID_54E1AD75FC57F95501_1431556748] I was gathered
+[2023.01.08-19.51.49:766][684]LogBlueprintUserMessages: [BP_Gold_C_UAID_54E1AD75FC57F95501_1437848750] I was gathered
+[2023.01.08-19.51.51:112][747]LogBlueprintUserMessages: [BP_Gold_C_UAID_049226DA5D91F75A01_1673335676] I was gathered
+[2023.01.08-19.51.51:797][779]LogBlueprintUserMessages: [BP_Gold_C_UAID_54E1AD75FC57F95501_1437848750] I was gathered
+[2023.01.08-19.51.52:140][795]LogBlueprintUserMessages: [BP_Gold_C_UAID_049226DA5D91F75A01_1676844678] I was gathered
+[2023.01.08-19.51.52:246][800]LogBlueprintUserMessages: [BP_Gold_C_UAID_54E1AD75FC57F95501_1439821751] I was gathered
+[2023.01.08-19.51.52:396][807]LogBlueprintUserMessages: [BP_Gold_C_UAID_049226DA5D91F75A01_1674749677] I was gathered
+[2023.01.08-19.51.53:339][851]LogBlueprintUserMessages: [BP_Gold_C_UAID_049226DA5D91F75A01_1671336675] I was gathered
+[2023.01.08-19.51.53:552][861]LogBlueprintUserMessages: [BP_Gold_C_UAID_54E1AD75FC57F95501_1431556748] I was gathered
+[2023.01.08-19.51.53:575][861]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.08-19.51.53:575][861]LogWorld: BeginTearingDown for /Game/Game/Maps/UEDPIE_0_RockyLevel
+[2023.01.08-19.51.53:576][861]LogSlate: Window 'RTS Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2023.01.08-19.51.53:594][861]LogWorld: UWorld::CleanupWorld for RockyLevel, bSessionEnded=true, bCleanupResources=true
+[2023.01.08-19.51.53:595][861]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.08-19.51.53:595][861]LogContentBundle: [Container: RockyLevel] Deleting container.
+[2023.01.08-19.51.53:699][861]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.01.08-19.51.53:708][861]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.08-19.51.53:780][861]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.01.08-19.51.53:781][861]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=76
+[2023.01.08-19.51.53:782][861]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=76
+[2023.01.08-19.51.53:793][861]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2023.01.08-19.51.53:946][862]LogPlayLevel: Display: Destroying online subsystem :Context_132
+[2023.01.08-19.52.52:641][875]BlueprintLog: New page: Compile BP_Worker
+[2023.01.08-19.52.52:860][875]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2023.01.08-19.53.01:254][581]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.01.08-19.53.01:263][581]LogContentBundle: [Container: RockyLevel] Generating Streaming for 0 Content Bundles.
+[2023.01.08-19.53.01:264][581]LogWorldPartition: Display: GenerateStreaming started...
+[2023.01.08-19.53.01:264][581]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.01.08-19.53.01:265][581]LogWorldPartition: Display: GetPartitionedActors took 18 us (total: 1 ms)
+[2023.01.08-19.53.01:275][581]LogWorldPartition: Display: GenerateStreaming took 10 ms (total: 141 ms)
+[2023.01.08-19.53.01:276][581]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.01.08-19.53.01:276][581]PIE: New page: PIE session: RockyLevel (8 sty 2023, 21:53:01)
+[2023.01.08-19.53.01:276][581]LogPlayLevel: Creating play world package: /Game/Game/Maps/UEDPIE_0_RockyLevel
+[2023.01.08-19.53.01:286][581]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009731s)
+[2023.01.08-19.53.01:286][581]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Game/Maps/RockyLevel.RockyLevel to /Game/Game/Maps/UEDPIE_0_RockyLevel.RockyLevel (0.009759s)
+[2023.01.08-19.53.01:286][581]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.08-19.53.01:286][581]LogAIModule: Creating AISystem for world RockyLevel
+[2023.01.08-19.53.01:287][581]LogWorldPartition: ULevel::OnLevelLoaded(RockyLevel)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2023.01.08-19.53.01:287][581]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.01.08-19.53.01:287][581]LogWorldPartition: UWorldPartition::Initialize(Asset=RockyLevel, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.01.08-19.53.01:288][581]LogContentBundle: [Container: RockyLevel] Creating new contrainer.
+[2023.01.08-19.53.01:288][581]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 6.48 sec)
+[2023.01.08-19.53.01:288][581]LogPlayLevel: PIE: World Init took: (0.002413s)
+[2023.01.08-19.53.01:358][581]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2023.01.08-19.53.01:361][581]LogAudio: Display: Creating Audio Device:                 Id: 77, Scope: Unique, Realtime: True
+[2023.01.08-19.53.01:361][581]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.01.08-19.53.01:361][581]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.01.08-19.53.01:361][581]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.01.08-19.53.01:361][581]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.01.08-19.53.01:361][581]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.01.08-19.53.01:361][581]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.01.08-19.53.01:361][581]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.01.08-19.53.01:361][581]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.01.08-19.53.01:362][581]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.01.08-19.53.01:362][581]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.01.08-19.53.01:362][581]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.01.08-19.53.01:364][581]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.01.08-19.53.01:380][581]LogAudioMixer: Display: Using Audio Hardware Device Speakers (High Definition Audio Device)
+[2023.01.08-19.53.01:380][581]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.01.08-19.53.01:380][581]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.01.08-19.53.01:380][581]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.01.08-19.53.01:380][581]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=77
+[2023.01.08-19.53.01:380][581]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=77
+[2023.01.08-19.53.01:382][581]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=77
+[2023.01.08-19.53.01:382][581]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=77
+[2023.01.08-19.53.01:382][581]LogInit: FAudioDevice initialized.
+[2023.01.08-19.53.01:382][581]LogAudio: Display: Audio Device (ID: 77) registered with world 'RockyLevel'.
+[2023.01.08-19.53.01:435][581]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.08-19.53.01:435][581]LogLoad: Game class is 'GM_RTS_C'
+[2023.01.08-19.53.01:437][581]LogWorld: Bringing World /Game/Game/Maps/UEDPIE_0_RockyLevel.RockyLevel up for play (max tick rate 0) at 2023.01.08-20.53.01
+[2023.01.08-19.53.01:439][581]LogWorld: Bringing up level for play took: 0.003955
+[2023.01.08-19.53.01:441][581]LogOnline: OSS: Created online subsystem instance for: :Context_133
+[2023.01.08-19.53.01:442][581]LogWorldPartition: New Streaming Source: PC_RTS_C_0 -> Position: X=-2210.000 Y=-1260.000 Z=3260.000
+[2023.01.08-19.53.01:442][581]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(16), CellsToLoad(0), CellsToUnload(0)
+[2023.01.08-19.53.01:442][581]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=-2210.000 Y=-1260.000 Z=3260.000,P=0.000000 Y=0.000000 R=-0.000000
+[2023.01.08-19.53.01:444][581]LogStreaming: Display: FlushAsyncLoading(-1): 23 QueuedPackages, 0 AsyncPackages
+[2023.01.08-19.53.01:558][581]PIE: Server logged in
+[2023.01.08-19.53.01:561][581]PIE: Play in editor total start time 0,298 seconds.
+[2023.01.08-19.53.01:564][581]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.01.08-19.53.01:564][581]LogScript: Warning: Last function called:
+	/Game/Game/BP/Core/Player/PC_RTS.PC_RTS_C.ExecuteUbergraph_PC_RTS
+
+[2023.01.08-19.53.01:564][581]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.01.08-19.53.01:564][581]LogScript: Warning: Last function called:
+	/Game/Game/BP/Core/Player/PC_RTS.PC_RTS_C.ExecuteUbergraph_PC_RTS
+
+[2023.01.08-19.53.01:564][581]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.01.08-19.53.01:564][581]LogScript: Warning: Last function called:
+	/Game/Game/BP/Core/Player/PC_RTS.PC_RTS_C.ExecuteUbergraph_PC_RTS
+
+[2023.01.08-19.53.01:564][581]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.01.08-19.53.01:564][581]LogScript: Warning: Last function called:
+	/Game/Game/BP/Core/Player/PC_RTS.PC_RTS_C.ExecuteUbergraph_PC_RTS
+
+[2023.01.08-19.53.01:564][581]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.01.08-19.53.01:564][581]LogScript: Warning: Last function called:
+	/Game/Game/BP/Core/Player/PC_RTS.PC_RTS_C.ExecuteUbergraph_PC_RTS
+
+[2023.01.08-19.53.01:564][581]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.01.08-19.53.01:564][581]LogScript: Warning: Last function called:
+	/Game/Game/BP/Core/Player/PC_RTS.PC_RTS_C.ExecuteUbergraph_PC_RTS
+
+[2023.01.08-19.53.01:595][581]LogViewport: Scene viewport resized to 2091x2040, mode Windowed.
+[2023.01.08-19.53.08:928][910]LogBlueprintUserMessages: [BP_Gold_C_UAID_54E1AD75FC57F95501_1439821751] I was gathered
+[2023.01.08-19.53.10:131][965]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Color 'Graph.Node.Comment.TextColor'.'
+[2023.01.08-19.53.10:411][979]LogBlueprintUserMessages: [BP_Gold_C_UAID_049226DA5D91F75A01_1671336675] I was gathered
+[2023.01.08-19.53.10:921][  3]LogBlueprintUserMessages: [BP_Gold_C_UAID_54E1AD75FC57F95501_1437848750] I was gathered
+[2023.01.08-19.53.12:056][ 56]LogBlueprintUserMessages: [BP_Gold_C_UAID_049226DA5D91F75A01_1673335676] I was gathered
+[2023.01.08-19.53.13:363][117]LogBlueprintUserMessages: [BP_Gold_C_UAID_54E1AD75FC57F95501_1439821751] I was gathered
+[2023.01.08-19.53.14:200][156]LogBlueprintUserMessages: [BP_Gold_C_UAID_54E1AD75FC57F95501_1431556748] I was gathered
+[2023.01.08-19.53.14:222][157]LogBlueprintUserMessages: [BP_Gold_C_UAID_54E1AD75FC57F95501_1437848750] I was gathered
+[2023.01.08-19.53.14:929][190]LogBlueprintUserMessages: [BP_Gold_C_UAID_049226DA5D91F75A01_1674749677] I was gathered
+[2023.01.08-19.53.15:977][239]LogBlueprintUserMessages: [BP_Gold_C_UAID_049226DA5D91F75A01_1671336675] I was gathered
+[2023.01.08-19.53.16:619][269]LogBlueprintUserMessages: [BP_Gold_C_UAID_049226DA5D91F75A01_1676844678] I was gathered
+[2023.01.08-19.53.17:154][294]LogBlueprintUserMessages: [BP_Gold_C_UAID_54E1AD75FC57F95501_1437848750] I was gathered
+[2023.01.08-19.53.17:518][311]LogBlueprintUserMessages: [BP_Gold_C_UAID_54E1AD75FC57F95501_1439821751] I was gathered
+[2023.01.08-19.53.17:776][323]LogBlueprintUserMessages: [BP_Gold_C_UAID_049226DA5D91F75A01_1673335676] I was gathered
+[2023.01.08-19.53.19:083][384]LogBlueprintUserMessages: [BP_Gold_C_UAID_049226DA5D91F75A01_1674749677] I was gathered
+[2023.01.08-19.53.19:341][396]LogBlueprintUserMessages: [BP_Gold_C_UAID_54E1AD75FC57F95501_1431556748] I was gathered
+[2023.01.08-19.53.21:068][475]LogBlueprintUserMessages: [BP_Gold_C_UAID_54E1AD75FC57F95501_1437848750] I was gathered
+[2023.01.08-19.53.21:438][492]LogBlueprintUserMessages: [BP_Gold_C_UAID_049226DA5D91F75A01_1671336675] I was gathered
+[2023.01.08-19.53.21:674][503]LogBlueprintUserMessages: [BP_Gold_C_UAID_54E1AD75FC57F95501_1439821751] I was gathered
+[2023.01.08-19.53.22:810][556]LogBlueprintUserMessages: [BP_Gold_C_UAID_049226DA5D91F75A01_1676844678] I was gathered
+[2023.01.08-19.53.23:217][575]LogBlueprintUserMessages: [BP_Gold_C_UAID_049226DA5D91F75A01_1674749677] I was gathered
+[2023.01.08-19.53.23:323][580]LogBlueprintUserMessages: [BP_Gold_C_UAID_049226DA5D91F75A01_1673335676] I was gathered
+[2023.01.08-19.53.23:324][580]LogBlueprintUserMessages: [BP_Gold_C_UAID_54E1AD75FC57F95501_1437848750] I was gathered
+[2023.01.08-19.53.24:373][629]LogBlueprintUserMessages: [BP_Gold_C_UAID_54E1AD75FC57F95501_1431556748] I was gathered
+[2023.01.08-19.53.25:788][695]LogBlueprintUserMessages: [BP_Gold_C_UAID_54E1AD75FC57F95501_1439821751] I was gathered
+[2023.01.08-19.53.26:923][748]LogBlueprintUserMessages: [BP_Gold_C_UAID_049226DA5D91F75A01_1671336675] I was gathered
+[2023.01.08-19.53.27:332][767]LogBlueprintUserMessages: [BP_Gold_C_UAID_049226DA5D91F75A01_1674749677] I was gathered
+[2023.01.08-19.53.27:418][771]LogBlueprintUserMessages: [BP_Gold_C_UAID_54E1AD75FC57F95501_1437848750] I was gathered
+[2023.01.08-19.53.28:896][840]LogBlueprintUserMessages: [BP_Gold_C_UAID_049226DA5D91F75A01_1676844678] I was gathered
+[2023.01.08-19.53.28:917][841]LogBlueprintUserMessages: [BP_Gold_C_UAID_049226DA5D91F75A01_1673335676] I was gathered
+[2023.01.08-19.53.29:451][866]LogBlueprintUserMessages: [BP_Gold_C_UAID_54E1AD75FC57F95501_1431556748] I was gathered
+[2023.01.08-19.53.29:688][877]LogBlueprintUserMessages: [BP_Gold_C_UAID_54E1AD75FC57F95501_1437848750] I was gathered
+[2023.01.08-19.53.29:904][887]LogBlueprintUserMessages: [BP_Gold_C_UAID_54E1AD75FC57F95501_1439821751] I was gathered
+[2023.01.08-19.53.31:453][959]LogBlueprintUserMessages: [BP_Gold_C_UAID_049226DA5D91F75A01_1674749677] I was gathered
+[2023.01.08-19.53.32:401][  2]LogBlueprintUserMessages: [BP_Gold_C_UAID_049226DA5D91F75A01_1671336675] I was gathered
+[2023.01.08-19.53.33:739][ 64]LogBlueprintUserMessages: [BP_Gold_C_UAID_54E1AD75FC57F95501_1437848750] I was gathered
+[2023.01.08-19.53.34:039][ 78]LogBlueprintUserMessages: [BP_Gold_C_UAID_54E1AD75FC57F95501_1439821751] I was gathered
+[2023.01.08-19.53.34:511][100]LogBlueprintUserMessages: [BP_Gold_C_UAID_049226DA5D91F75A01_1673335676] I was gathered
+[2023.01.08-19.53.34:618][105]LogBlueprintUserMessages: [BP_Gold_C_UAID_54E1AD75FC57F95501_1431556748] I was gathered
+[2023.01.08-19.53.35:003][123]LogBlueprintUserMessages: [BP_Gold_C_UAID_049226DA5D91F75A01_1676844678] I was gathered
+[2023.01.08-19.53.35:582][150]LogBlueprintUserMessages: [BP_Gold_C_UAID_049226DA5D91F75A01_1674749677] I was gathered
+[2023.01.08-19.53.36:075][173]LogBlueprintUserMessages: [BP_Gold_C_UAID_54E1AD75FC57F95501_1437848750] I was gathered
+[2023.01.08-19.53.37:852][256]LogBlueprintUserMessages: [BP_Gold_C_UAID_049226DA5D91F75A01_1671336675] I was gathered
+[2023.01.08-19.53.38:153][270]LogBlueprintUserMessages: [BP_Gold_C_UAID_54E1AD75FC57F95501_1439821751] I was gathered
+[2023.01.08-19.53.39:722][343]LogBlueprintUserMessages: [BP_Gold_C_UAID_54E1AD75FC57F95501_1431556748] I was gathered
+[2023.01.08-19.53.39:744][344]LogBlueprintUserMessages: [BP_Gold_C_UAID_049226DA5D91F75A01_1674749677] I was gathered
+[2023.01.08-19.53.40:085][360]LogBlueprintUserMessages: [BP_Gold_C_UAID_54E1AD75FC57F95501_1437848750] I was gathered
+[2023.01.08-19.53.40:236][367]LogBlueprintUserMessages: [BP_Gold_C_UAID_049226DA5D91F75A01_1673335676] I was gathered
+[2023.01.08-19.53.40:595][382]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.08-19.53.40:595][382]LogWorld: BeginTearingDown for /Game/Game/Maps/UEDPIE_0_RockyLevel
+[2023.01.08-19.53.40:596][382]LogSlate: Window 'RTS Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2023.01.08-19.53.40:604][382]LogWorld: UWorld::CleanupWorld for RockyLevel, bSessionEnded=true, bCleanupResources=true
+[2023.01.08-19.53.40:605][382]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.08-19.53.40:605][382]LogContentBundle: [Container: RockyLevel] Deleting container.
+[2023.01.08-19.53.40:713][382]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.01.08-19.53.40:721][382]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.08-19.53.40:792][382]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.01.08-19.53.40:793][382]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=77
+[2023.01.08-19.53.40:794][382]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=77
+[2023.01.08-19.53.40:804][382]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2023.01.08-19.53.40:958][383]LogPlayLevel: Display: Destroying online subsystem :Context_133
+[2023.01.08-19.53.55:464][875]BlueprintLog: New page: Compile PC_RTS
+[2023.01.08-19.53.55:586][875]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2023.01.08-19.54.16:075][ 67]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.01.08-19.54.16:084][ 67]LogContentBundle: [Container: RockyLevel] Generating Streaming for 0 Content Bundles.
+[2023.01.08-19.54.16:085][ 67]LogWorldPartition: Display: GenerateStreaming started...
+[2023.01.08-19.54.16:085][ 67]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.01.08-19.54.16:085][ 67]LogWorldPartition: Display: GetPartitionedActors took 18 us (total: 1 ms)
+[2023.01.08-19.54.16:095][ 67]LogWorldPartition: Display: GenerateStreaming took 9 ms (total: 151 ms)
+[2023.01.08-19.54.16:095][ 67]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.01.08-19.54.16:095][ 67]PIE: New page: PIE session: RockyLevel (8 sty 2023, 21:54:16)
+[2023.01.08-19.54.16:096][ 67]LogPlayLevel: Creating play world package: /Game/Game/Maps/UEDPIE_0_RockyLevel
+[2023.01.08-19.54.16:106][ 67]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010064s)
+[2023.01.08-19.54.16:106][ 67]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Game/Maps/RockyLevel.RockyLevel to /Game/Game/Maps/UEDPIE_0_RockyLevel.RockyLevel (0.010094s)
+[2023.01.08-19.54.16:106][ 67]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.08-19.54.16:106][ 67]LogAIModule: Creating AISystem for world RockyLevel
+[2023.01.08-19.54.16:107][ 67]LogWorldPartition: ULevel::OnLevelLoaded(RockyLevel)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2023.01.08-19.54.16:107][ 67]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.01.08-19.54.16:107][ 67]LogWorldPartition: UWorldPartition::Initialize(Asset=RockyLevel, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.01.08-19.54.16:108][ 67]LogContentBundle: [Container: RockyLevel] Creating new contrainer.
+[2023.01.08-19.54.16:108][ 67]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 6.48 sec)
+[2023.01.08-19.54.16:108][ 67]LogPlayLevel: PIE: World Init took: (0.002430s)
+[2023.01.08-19.54.16:180][ 67]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2023.01.08-19.54.16:184][ 67]LogAudio: Display: Creating Audio Device:                 Id: 78, Scope: Unique, Realtime: True
+[2023.01.08-19.54.16:184][ 67]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.01.08-19.54.16:184][ 67]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.01.08-19.54.16:184][ 67]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.01.08-19.54.16:184][ 67]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.01.08-19.54.16:184][ 67]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.01.08-19.54.16:184][ 67]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.01.08-19.54.16:184][ 67]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.01.08-19.54.16:184][ 67]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.01.08-19.54.16:184][ 67]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.01.08-19.54.16:184][ 67]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.01.08-19.54.16:184][ 67]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.01.08-19.54.16:186][ 67]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.01.08-19.54.16:203][ 67]LogAudioMixer: Display: Using Audio Hardware Device Speakers (High Definition Audio Device)
+[2023.01.08-19.54.16:203][ 67]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.01.08-19.54.16:203][ 67]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.01.08-19.54.16:203][ 67]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.01.08-19.54.16:204][ 67]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=78
+[2023.01.08-19.54.16:204][ 67]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=78
+[2023.01.08-19.54.16:205][ 67]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=78
+[2023.01.08-19.54.16:205][ 67]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=78
+[2023.01.08-19.54.16:205][ 67]LogInit: FAudioDevice initialized.
+[2023.01.08-19.54.16:205][ 67]LogAudio: Display: Audio Device (ID: 78) registered with world 'RockyLevel'.
+[2023.01.08-19.54.16:254][ 67]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.08-19.54.16:254][ 67]LogLoad: Game class is 'GM_RTS_C'
+[2023.01.08-19.54.16:257][ 67]LogWorld: Bringing World /Game/Game/Maps/UEDPIE_0_RockyLevel.RockyLevel up for play (max tick rate 0) at 2023.01.08-20.54.16
+[2023.01.08-19.54.16:259][ 67]LogWorld: Bringing up level for play took: 0.004031
+[2023.01.08-19.54.16:261][ 67]LogOnline: OSS: Created online subsystem instance for: :Context_134
+[2023.01.08-19.54.16:262][ 67]LogWorldPartition: New Streaming Source: PC_RTS_C_0 -> Position: X=-2210.000 Y=-1260.000 Z=3260.000
+[2023.01.08-19.54.16:262][ 67]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(16), CellsToLoad(0), CellsToUnload(0)
+[2023.01.08-19.54.16:262][ 67]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=-2210.000 Y=-1260.000 Z=3260.000,P=0.000000 Y=0.000000 R=-0.000000
+[2023.01.08-19.54.16:264][ 67]LogStreaming: Display: FlushAsyncLoading(-1): 23 QueuedPackages, 0 AsyncPackages
+[2023.01.08-19.54.16:388][ 67]PIE: Server logged in
+[2023.01.08-19.54.16:392][ 67]PIE: Play in editor total start time 0,309 seconds.
+[2023.01.08-19.54.16:395][ 67]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.01.08-19.54.16:395][ 67]LogScript: Warning: Last function called:
+	/Game/Game/BP/Core/Player/PC_RTS.PC_RTS_C.ExecuteUbergraph_PC_RTS
+
+[2023.01.08-19.54.16:395][ 67]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.01.08-19.54.16:395][ 67]LogScript: Warning: Last function called:
+	/Game/Game/BP/Core/Player/PC_RTS.PC_RTS_C.ExecuteUbergraph_PC_RTS
+
+[2023.01.08-19.54.16:395][ 67]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.01.08-19.54.16:395][ 67]LogScript: Warning: Last function called:
+	/Game/Game/BP/Core/Player/PC_RTS.PC_RTS_C.ExecuteUbergraph_PC_RTS
+
+[2023.01.08-19.54.16:395][ 67]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.01.08-19.54.16:395][ 67]LogScript: Warning: Last function called:
+	/Game/Game/BP/Core/Player/PC_RTS.PC_RTS_C.ExecuteUbergraph_PC_RTS
+
+[2023.01.08-19.54.16:395][ 67]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.01.08-19.54.16:395][ 67]LogScript: Warning: Last function called:
+	/Game/Game/BP/Core/Player/PC_RTS.PC_RTS_C.ExecuteUbergraph_PC_RTS
+
+[2023.01.08-19.54.16:395][ 67]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.01.08-19.54.16:395][ 67]LogScript: Warning: Last function called:
+	/Game/Game/BP/Core/Player/PC_RTS.PC_RTS_C.ExecuteUbergraph_PC_RTS
+
+[2023.01.08-19.54.16:420][ 67]LogViewport: Scene viewport resized to 2094x2040, mode Windowed.
+[2023.01.08-19.54.22:444][333]LogBlueprintUserMessages: [BP_Gold_C_UAID_049226DA5D91F75A01_1671336675] I was gathered
+[2023.01.08-19.54.27:907][587]LogBlueprintUserMessages: [BP_Gold_C_UAID_049226DA5D91F75A01_1671336675] I was gathered
+[2023.01.08-19.54.33:391][843]LogBlueprintUserMessages: [BP_Gold_C_UAID_049226DA5D91F75A01_1671336675] I was gathered
+[2023.01.08-19.54.38:880][ 99]LogBlueprintUserMessages: [BP_Gold_C_UAID_049226DA5D91F75A01_1671336675] I was gathered
+[2023.01.08-19.54.44:366][355]LogBlueprintUserMessages: [BP_Gold_C_UAID_049226DA5D91F75A01_1671336675] I was gathered
+[2023.01.08-19.54.44:902][380]LogBlueprintUserMessages: [BP_Gold_C_UAID_54E1AD75FC57F95501_1437848750] I was gathered
+[2023.01.08-19.54.49:830][610]LogBlueprintUserMessages: [BP_Gold_C_UAID_049226DA5D91F75A01_1671336675] I was gathered
+[2023.01.08-19.54.50:838][657]LogBlueprintUserMessages: [BP_Gold_C_UAID_54E1AD75FC57F95501_1437848750] I was gathered
+[2023.01.08-19.54.55:298][864]LogBlueprintUserMessages: [BP_Gold_C_UAID_049226DA5D91F75A01_1671336675] I was gathered
+[2023.01.08-19.54.56:443][917]LogBlueprintUserMessages: [BP_Gold_C_UAID_54E1AD75FC57F95501_1437848750] I was gathered
+[2023.01.08-19.54.59:652][ 64]LogBlueprintUserMessages: [BP_Gold_C_UAID_049226DA5D91F75A01_1671336675] I was gathered
+[2023.01.08-19.55.00:752][115]LogBlueprintUserMessages: [BP_Gold_C_UAID_049226DA5D91F75A01_1671336675] I was gathered
+[2023.01.08-19.55.04:506][289]LogBlueprintUserMessages: [BP_Gold_C_UAID_54E1AD75FC57F95501_1437848750] I was gathered
+[2023.01.08-19.55.06:191][367]LogBlueprintUserMessages: [BP_Gold_C_UAID_049226DA5D91F75A01_1671336675] I was gathered
+[2023.01.08-19.55.07:940][448]LogBlueprintUserMessages: [BP_Gold_C_UAID_049226DA5D91F75A01_1671336675] I was gathered
+[2023.01.08-19.55.10:144][550]LogBlueprintUserMessages: [BP_Gold_C_UAID_54E1AD75FC57F95501_1437848750] I was gathered
+[2023.01.08-19.55.12:157][643]LogBlueprintUserMessages: [BP_Gold_C_UAID_049226DA5D91F75A01_1671336675] I was gathered
+[2023.01.08-19.55.13:175][690]LogBlueprintUserMessages: [BP_Gold_C_UAID_049226DA5D91F75A01_1673335676] I was gathered
+[2023.01.08-19.55.14:259][740]LogBlueprintUserMessages: [BP_Gold_C_UAID_049226DA5D91F75A01_1671336675] I was gathered
+[2023.01.08-19.55.14:260][740]LogBlueprintUserMessages: [BP_Gold_C_UAID_54E1AD75FC57F95501_1437848750] I was gathered
+[2023.01.08-19.55.15:185][783]LogBlueprintUserMessages: [BP_Gold_C_UAID_54E1AD75FC57F95501_1437848750] I was gathered
+[2023.01.08-19.55.15:770][810]LogBlueprintUserMessages: [BP_Gold_C_UAID_54E1AD75FC57F95501_1437848750] I was gathered
+[2023.01.08-19.55.16:157][828]LogBlueprintUserMessages: [BP_Gold_C_UAID_54E1AD75FC57F95501_1437848750] I was gathered
+[2023.01.08-19.55.18:492][936]LogBlueprintUserMessages: [BP_Gold_C_UAID_049226DA5D91F75A01_1671336675] I was gathered
+[2023.01.08-19.55.18:751][948]LogBlueprintUserMessages: [BP_Gold_C_UAID_049226DA5D91F75A01_1673335676] I was gathered
+[2023.01.08-19.55.20:543][ 31]LogBlueprintUserMessages: [BP_Gold_C_UAID_049226DA5D91F75A01_1671336675] I was gathered
+[2023.01.08-19.55.21:385][ 70]LogBlueprintUserMessages: [BP_Gold_C_UAID_54E1AD75FC57F95501_1437848750] I was gathered
+[2023.01.08-19.55.22:919][141]LogBlueprintUserMessages: [BP_Gold_C_UAID_049226DA5D91F75A01_1671336675] I was gathered
+[2023.01.08-19.55.24:323][206]LogBlueprintUserMessages: [BP_Gold_C_UAID_049226DA5D91F75A01_1673335676] I was gathered
+[2023.01.08-19.55.24:475][213]LogBlueprintUserMessages: [BP_Gold_C_UAID_049226DA5D91F75A01_1671336675] I was gathered
+[2023.01.08-19.55.24:820][229]LogBlueprintUserMessages: [BP_Gold_C_UAID_049226DA5D91F75A01_1671336675] I was gathered
+[2023.01.08-19.55.25:513][261]LogBlueprintUserMessages: [BP_Gold_C_UAID_54E1AD75FC57F95501_1439821751] I was gathered
+[2023.01.08-19.55.26:852][323]LogBlueprintUserMessages: [BP_Gold_C_UAID_049226DA5D91F75A01_1671336675] I was gathered
+[2023.01.08-19.55.27:004][330]LogBlueprintUserMessages: [BP_Gold_C_UAID_54E1AD75FC57F95501_1437848750] I was gathered
+[2023.01.08-19.55.27:672][361]LogBlueprintUserMessages: [BP_Gold_C_UAID_54E1AD75FC57F95501_1431556748] I was gathered
+[2023.01.08-19.55.29:731][456]LogBlueprintUserMessages: [BP_Gold_C_UAID_54E1AD75FC57F95501_1431556748] I was gathered
+[2023.01.08-19.55.29:903][464]LogBlueprintUserMessages: [BP_Gold_C_UAID_049226DA5D91F75A01_1673335676] I was gathered
+[2023.01.08-19.55.31:178][523]LogBlueprintUserMessages: [BP_Gold_C_UAID_049226DA5D91F75A01_1671336675] I was gathered
+[2023.01.08-19.55.31:685][545]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.08-19.55.31:685][545]LogWorld: BeginTearingDown for /Game/Game/Maps/UEDPIE_0_RockyLevel
+[2023.01.08-19.55.31:686][545]LogSlate: Window 'RTS Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2023.01.08-19.55.31:697][545]LogWorld: UWorld::CleanupWorld for RockyLevel, bSessionEnded=true, bCleanupResources=true
+[2023.01.08-19.55.31:697][545]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.08-19.55.31:697][545]LogContentBundle: [Container: RockyLevel] Deleting container.
+[2023.01.08-19.55.31:703][545]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.01.08-19.55.31:714][545]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.08-19.55.31:788][545]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.01.08-19.55.31:788][545]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=78
+[2023.01.08-19.55.31:790][545]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=78
+[2023.01.08-19.55.31:800][545]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2023.01.08-19.55.31:875][546]LogPlayLevel: Display: Destroying online subsystem :Context_134
+[2023.01.08-19.56.23:664][768]BlueprintLog: New page: Compile PC_RTS
+[2023.01.08-19.56.23:793][768]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2023.01.08-19.56.24:475][796]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.01.08-19.56.24:528][796]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game/BP/Core/Player/PC_RTS" FILE="../../../../projekty/rts/MiniRTS/Content/Game/BP/Core/Player/PC_RTS.uasset" SILENT=true
+[2023.01.08-19.56.24:567][796]LogSavePackage: Moving output files for package: /Game/Game/BP/Core/Player/PC_RTS
+[2023.01.08-19.56.24:567][796]LogSavePackage: Moving '../../../../projekty/rts/MiniRTS/Saved/PC_RTSFE6267D145C32E3DFC3054BCAC426F8E.tmp' to '../../../../projekty/rts/MiniRTS/Content/Game/BP/Core/Player/PC_RTS.uasset'
+[2023.01.08-19.56.24:578][796]LogFileHelpers: InternalPromptForCheckoutAndSave took 103 ms (total: 6.21 sec)
+[2023.01.08-19.56.24:588][796]AssetCheck: New page: Asset Save: PC_RTS
+[2023.01.08-19.56.24:588][796]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Game/BP/Core/Player/PC_RTS.PC_RTS
+[2023.01.08-19.56.29:244][991]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2023.01.08-19.56.30:314][991]LogSlate: Window 'Save Content' being destroyed
+[2023.01.08-19.56.30:322][991]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.01.08-19.56.30:416][991]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game/BP/Core/Unit/Worker/BP_Worker" FILE="../../../../projekty/rts/MiniRTS/Content/Game/BP/Core/Unit/Worker/BP_Worker.uasset" SILENT=true
+[2023.01.08-19.56.30:442][991]LogSavePackage: Moving output files for package: /Game/Game/BP/Core/Unit/Worker/BP_Worker
+[2023.01.08-19.56.30:442][991]LogSavePackage: Moving '../../../../projekty/rts/MiniRTS/Saved/BP_Worker169671454C7FAD1AC1E765AA89F7C3D0.tmp' to '../../../../projekty/rts/MiniRTS/Content/Game/BP/Core/Unit/Worker/BP_Worker.uasset'
+[2023.01.08-19.56.30:445][991]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Game/Maps/RockyLevel/B/TY/X2FWPVJWG12SA9EYT4J0TH
+[2023.01.08-19.56.30:445][991]LogSavePackage: Moving '../../../../projekty/rts/MiniRTS/Saved/X2FWPVJWG12SA9EYT4J0THD8B34724417E24880AFD98BB84F89EFD.tmp' to '../../../../projekty/rts/MiniRTS/Content/__ExternalActors__/Game/Maps/RockyLevel/B/TY/X2FWPVJWG12SA9EYT4J0TH.uasset'
+[2023.01.08-19.56.30:448][991]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Game/Maps/RockyLevel/8/X8/SC9RFFHSVVNLKEPZWDXY6P
+[2023.01.08-19.56.30:448][991]LogSavePackage: Moving '../../../../projekty/rts/MiniRTS/Saved/SC9RFFHSVVNLKEPZWDXY6PD4E18EF74B93077244EA469D58E3AC08.tmp' to '../../../../projekty/rts/MiniRTS/Content/__ExternalActors__/Game/Maps/RockyLevel/8/X8/SC9RFFHSVVNLKEPZWDXY6P.uasset'
+[2023.01.08-19.56.30:451][991]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Game/Maps/RockyLevel/1/HB/TQGOQA1HQZSZ5O0TNN9U1A
+[2023.01.08-19.56.30:452][991]LogSavePackage: Moving '../../../../projekty/rts/MiniRTS/Saved/TQGOQA1HQZSZ5O0TNN9U1A93AC7A7E48DD89FB56DCD587321B135E.tmp' to '../../../../projekty/rts/MiniRTS/Content/__ExternalActors__/Game/Maps/RockyLevel/1/HB/TQGOQA1HQZSZ5O0TNN9U1A.uasset'
+[2023.01.08-19.56.30:454][991]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Game/Maps/RockyLevel/9/SM/495QVPY4ONCXPMBLD5BUOB
+[2023.01.08-19.56.30:455][991]LogSavePackage: Moving '../../../../projekty/rts/MiniRTS/Saved/495QVPY4ONCXPMBLD5BUOB67FD995F49B60A977995ACAAB242E50F.tmp' to '../../../../projekty/rts/MiniRTS/Content/__ExternalActors__/Game/Maps/RockyLevel/9/SM/495QVPY4ONCXPMBLD5BUOB.uasset'
+[2023.01.08-19.56.30:465][991]LogFileHelpers: InternalPromptForCheckoutAndSave took 142 ms (total: 6.36 sec)
+[2023.01.08-19.56.30:474][991]AssetCheck: New page: Asset Save: multiple assets
+[2023.01.08-19.56.30:474][991]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Game/BP/Core/Unit/Worker/BP_Worker.BP_Worker
+[2023.01.08-19.56.30:474][991]LogContentValidation: Display: Validating /Game/Game/BP/Core/Unit/Worker/BP_Worker.BP_Worker_C /Game/Game/Maps/RockyLevel.RockyLevel:PersistentLevel.BP_Worker_C_UAID_54E1AD75FC57465601_1128387295
+[2023.01.08-19.56.30:474][991]LogContentValidation: Display: Validating /Game/Game/BP/Core/Unit/Worker/BP_Worker.BP_Worker_C /Game/Game/Maps/RockyLevel.RockyLevel:PersistentLevel.BP_Worker_C_UAID_54E1AD75FC57465601_1151742298
+[2023.01.08-19.56.30:474][991]LogContentValidation: Display: Validating /Game/Game/BP/Core/Unit/Worker/BP_Worker.BP_Worker_C /Game/Game/Maps/RockyLevel.RockyLevel:PersistentLevel.BP_Worker_C_UAID_54E1AD75FC57465601_1148585296
+[2023.01.08-19.56.30:475][991]LogContentValidation: Display: Validating /Game/Game/BP/Core/Unit/Worker/BP_Worker.BP_Worker_C /Game/Game/Maps/RockyLevel.RockyLevel:PersistentLevel.BP_Worker_C_UAID_54E1AD75FC57465601_1150335297
